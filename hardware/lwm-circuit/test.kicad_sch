@@ -3375,36 +3375,6 @@
 	)
 	(wire
 		(pts
-			(xy 401.32 158.75) (xy 401.32 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "0126bf30-a3a4-4828-9fef-310465490069")
-	)
-	(wire
-		(pts
-			(xy 361.95 138.43) (xy 361.95 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "02271a72-034f-46b2-86f7-8d07e9a5c1f3")
-	)
-	(wire
-		(pts
-			(xy 520.7 138.43) (xy 520.7 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "027150c0-fbce-4b0c-a20f-9e1638bba8a7")
-	)
-	(wire
-		(pts
 			(xy 431.8 35.56) (xy 441.96 35.56)
 		)
 		(stroke
@@ -3412,26 +3382,6 @@
 			(type default)
 		)
 		(uuid "03266fd0-cdd0-4da9-a435-cf4c1741b5a6")
-	)
-	(wire
-		(pts
-			(xy 515.62 138.43) (xy 515.62 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "047f0a5b-d2e6-4bc9-b8d5-61672173e92b")
-	)
-	(wire
-		(pts
-			(xy 372.11 138.43) (xy 372.11 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "0558f935-df59-4e68-afca-66d54338cbf8")
 	)
 	(wire
 		(pts
@@ -3505,46 +3455,6 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 158.75) (xy 386.08 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "0a91ab58-ba51-4f03-b00d-844791c0f245")
-	)
-	(wire
-		(pts
-			(xy 483.87 138.43) (xy 483.87 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "0b1d026a-0fb8-49fd-b1f1-c51693103265")
-	)
-	(wire
-		(pts
-			(xy 447.04 158.75) (xy 447.04 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "0c566f7d-e21e-42c2-a1b2-f7dd1860578b")
-	)
-	(wire
-		(pts
-			(xy 367.03 138.43) (xy 367.03 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "0d74dc19-236e-4750-bf43-1f6908879847")
-	)
-	(wire
-		(pts
 			(xy 184.15 158.75) (xy 184.15 138.43)
 		)
 		(stroke
@@ -3552,16 +3462,6 @@
 			(type solid)
 		)
 		(uuid "102fbed3-5eed-4ac8-8d87-4f84f74e7ccb")
-	)
-	(wire
-		(pts
-			(xy 510.54 158.75) (xy 510.54 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "13d75691-3d67-42af-9b22-4457cf01c40d")
 	)
 	(wire
 		(pts
@@ -3592,16 +3492,6 @@
 			(type solid)
 		)
 		(uuid "179fb260-1660-4133-827f-c7e06f22aa51")
-	)
-	(wire
-		(pts
-			(xy 351.79 158.75) (xy 351.79 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "181da564-a760-4809-a223-c2dc71fb37c1")
 	)
 	(wire
 		(pts
@@ -3665,16 +3555,6 @@
 	)
 	(wire
 		(pts
-			(xy 581.66 158.75) (xy 581.66 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "1adaa100-7ceb-400a-ba02-4393a4b31fb4")
-	)
-	(wire
-		(pts
 			(xy 30.48 44.45) (xy 48.26 44.45)
 		)
 		(stroke
@@ -3682,16 +3562,6 @@
 			(type solid)
 		)
 		(uuid "1cb78ae5-9892-491d-a804-f89292a637d8")
-	)
-	(wire
-		(pts
-			(xy 396.24 158.75) (xy 396.24 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "1d35712d-7d3e-490f-92dd-3f9ab4feda92")
 	)
 	(wire
 		(pts
@@ -3745,16 +3615,6 @@
 	)
 	(wire
 		(pts
-			(xy 488.95 138.43) (xy 488.95 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "210c3dcf-ffef-4ec2-95b7-1ca0a9f392d7")
-	)
-	(wire
-		(pts
 			(xy 209.55 73.66) (xy 209.55 82.55)
 		)
 		(stroke
@@ -3795,26 +3655,6 @@
 	)
 	(wire
 		(pts
-			(xy 486.41 158.75) (xy 486.41 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "23ab50ef-aa08-4441-999b-113848c3ada9")
-	)
-	(wire
-		(pts
-			(xy 513.08 158.75) (xy 513.08 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2406d36e-bb43-4be6-ae42-00741f583b3f")
-	)
-	(wire
-		(pts
 			(xy 360.68 71.12) (xy 365.76 71.12)
 		)
 		(stroke
@@ -3835,16 +3675,6 @@
 	)
 	(wire
 		(pts
-			(xy 403.86 138.43) (xy 403.86 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "253baf47-ea98-4eb5-bfc8-1f3dbd5abbab")
-	)
-	(wire
-		(pts
 			(xy 205.74 55.88) (xy 205.74 102.87)
 		)
 		(stroke
@@ -3852,36 +3682,6 @@
 			(type default)
 		)
 		(uuid "265b6023-ec68-4d8e-8525-3197c22178e9")
-	)
-	(wire
-		(pts
-			(xy 459.74 158.75) (xy 459.74 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "26a9ef46-40ce-4292-88d8-fbbc12a6f340")
-	)
-	(wire
-		(pts
-			(xy 605.79 158.75) (xy 605.79 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "28654e98-aaff-44f2-b0a1-89ca416952b3")
-	)
-	(wire
-		(pts
-			(xy 615.95 138.43) (xy 615.95 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "28eecaf6-a77f-4ed4-85a5-0c74016cdbf1")
 	)
 	(wire
 		(pts
@@ -3902,46 +3702,6 @@
 			(type solid)
 		)
 		(uuid "2b2443ac-60b9-4fa3-8f90-bd4b8199e13e")
-	)
-	(wire
-		(pts
-			(xy 325.12 138.43) (xy 325.12 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2cf085aa-a24c-41bc-9c20-bef80ae5885c")
-	)
-	(wire
-		(pts
-			(xy 525.78 138.43) (xy 525.78 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2d0cc11e-d2a0-4c4b-a915-dfd74b5a1dc9")
-	)
-	(wire
-		(pts
-			(xy 415.29 158.75) (xy 415.29 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2dcf4d4b-3599-4b2f-b33c-50d1dab4779f")
-	)
-	(wire
-		(pts
-			(xy 623.57 158.75) (xy 623.57 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2f4efc1d-4000-475e-9e62-27549f8f0655")
 	)
 	(wire
 		(pts
@@ -3982,16 +3742,6 @@
 			(type solid)
 		)
 		(uuid "311a421b-28eb-4db6-9021-6b2d46c62f3e")
-	)
-	(wire
-		(pts
-			(xy 549.91 158.75) (xy 549.91 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "31809db5-7233-4d32-a691-d93f73e206ba")
 	)
 	(wire
 		(pts
@@ -4045,16 +3795,6 @@
 	)
 	(wire
 		(pts
-			(xy 560.07 158.75) (xy 560.07 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "379d5695-50ec-45da-ac78-c36f0257af14")
-	)
-	(wire
-		(pts
 			(xy 68.58 36.83) (xy 83.82 36.83)
 		)
 		(stroke
@@ -4092,16 +3832,6 @@
 			(type default)
 		)
 		(uuid "3b0053d5-cd72-403f-8e35-adc2b68383c2")
-	)
-	(wire
-		(pts
-			(xy 340.36 138.43) (xy 340.36 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "3bf36e46-138a-4fe4-a5a9-dbc35f792663")
 	)
 	(wire
 		(pts
@@ -4145,16 +3875,6 @@
 	)
 	(wire
 		(pts
-			(xy 530.86 138.43) (xy 530.86 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "3e64e18b-ce16-455a-b8d3-e90a12a1af48")
-	)
-	(wire
-		(pts
 			(xy 142.24 138.43) (xy 142.24 158.75)
 		)
 		(stroke
@@ -4165,16 +3885,6 @@
 	)
 	(wire
 		(pts
-			(xy 501.65 158.75) (xy 501.65 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "3ea8bfe4-af8b-46e9-92e8-e5084a3d4ee3")
-	)
-	(wire
-		(pts
 			(xy 226.06 78.74) (xy 226.06 82.55)
 		)
 		(stroke
@@ -4182,16 +3892,6 @@
 			(type default)
 		)
 		(uuid "3f48b2f1-1b3a-4e9e-bbf2-9b2a2061259b")
-	)
-	(wire
-		(pts
-			(xy 427.99 158.75) (xy 427.99 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "405d5d46-5eed-48bb-928f-c9bff79786de")
 	)
 	(wire
 		(pts
@@ -4305,26 +4005,6 @@
 	)
 	(wire
 		(pts
-			(xy 464.82 158.75) (xy 464.82 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "488f1e33-84fd-455a-a690-dfd90acc231c")
-	)
-	(wire
-		(pts
-			(xy 584.2 138.43) (xy 584.2 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "493a7b85-db0b-4de4-9b06-07d28fa9543b")
-	)
-	(wire
-		(pts
 			(xy 43.18 30.48) (xy 107.95 30.48)
 		)
 		(stroke
@@ -4345,16 +4025,6 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 158.75) (xy 337.82 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "4be21d3b-bd5b-4c40-a5c0-a1e8f134a7b5")
-	)
-	(wire
-		(pts
 			(xy 360.68 68.58) (xy 360.68 71.12)
 		)
 		(stroke
@@ -4362,16 +4032,6 @@
 			(type default)
 		)
 		(uuid "4d3002b5-352e-4193-bb7c-578e307367d5")
-	)
-	(wire
-		(pts
-			(xy 469.9 158.75) (xy 469.9 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "4d97a7ac-359f-4225-afe1-99f5f4977a40")
 	)
 	(wire
 		(pts
@@ -4435,26 +4095,6 @@
 	)
 	(wire
 		(pts
-			(xy 579.12 138.43) (xy 579.12 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "53b5e0f6-4dc3-448d-a645-96745bd9b575")
-	)
-	(wire
-		(pts
-			(xy 320.04 158.75) (xy 320.04 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "53dac113-4b40-43e8-8482-6ca2ee0a0683")
-	)
-	(wire
-		(pts
 			(xy 127 21.59) (xy 203.2 21.59)
 		)
 		(stroke
@@ -4475,46 +4115,6 @@
 	)
 	(wire
 		(pts
-			(xy 591.82 158.75) (xy 591.82 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "5589b01b-0e43-4cb9-8b77-bd13e035a405")
-	)
-	(wire
-		(pts
-			(xy 388.62 138.43) (xy 388.62 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "5655bee6-b9ec-45e7-82e4-161e60f790bb")
-	)
-	(wire
-		(pts
-			(xy 354.33 158.75) (xy 354.33 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "5870361f-5322-4f2e-b88e-11e490db196f")
-	)
-	(wire
-		(pts
-			(xy 518.16 158.75) (xy 518.16 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "58fa0bef-7359-4ea2-a23f-a2b556c2388d")
-	)
-	(wire
-		(pts
 			(xy 149.86 17.78) (xy 226.06 17.78)
 		)
 		(stroke
@@ -4525,16 +4125,6 @@
 	)
 	(wire
 		(pts
-			(xy 454.66 158.75) (xy 454.66 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "5b5fca43-8611-4c15-b00b-99d029444a7c")
-	)
-	(wire
-		(pts
 			(xy 144.78 138.43) (xy 144.78 158.75)
 		)
 		(stroke
@@ -4542,16 +4132,6 @@
 			(type solid)
 		)
 		(uuid "5b67ed53-7519-479e-9e22-d57bb323ad31")
-	)
-	(wire
-		(pts
-			(xy 435.61 138.43) (xy 435.61 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "5c1440c2-2a23-4dc1-992b-45be305adf45")
 	)
 	(wire
 		(pts
@@ -4632,36 +4212,6 @@
 			(type default)
 		)
 		(uuid "5fa4a878-b153-418e-934a-e6bd8a8e6974")
-	)
-	(wire
-		(pts
-			(xy 327.66 158.75) (xy 327.66 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "6037903f-f2b5-4a97-9d14-3ce64f3d9f4c")
-	)
-	(wire
-		(pts
-			(xy 496.57 158.75) (xy 496.57 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "615d32a3-1a4f-4da6-96ea-370da38900c1")
-	)
-	(wire
-		(pts
-			(xy 342.9 158.75) (xy 342.9 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "625ff18d-6c34-4bb9-bf9a-61854db8852e")
 	)
 	(wire
 		(pts
@@ -4805,26 +4355,6 @@
 	)
 	(wire
 		(pts
-			(xy 533.4 158.75) (xy 533.4 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "7107890a-198a-4b8a-aa4e-b1fb58d08058")
-	)
-	(wire
-		(pts
-			(xy 364.49 158.75) (xy 364.49 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "72e7cb4b-e691-4171-b486-0faacfdaed3c")
-	)
-	(wire
-		(pts
 			(xy 203.2 138.43) (xy 203.2 158.75)
 		)
 		(stroke
@@ -4862,16 +4392,6 @@
 			(type solid)
 		)
 		(uuid "7604b19b-df9e-4476-8cd6-2a06f4526228")
-	)
-	(wire
-		(pts
-			(xy 452.12 138.43) (xy 452.12 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "7819192b-867c-48f7-9b18-1383157fe5bf")
 	)
 	(wire
 		(pts
@@ -4945,16 +4465,6 @@
 	)
 	(wire
 		(pts
-			(xy 565.15 158.75) (xy 565.15 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "7cd43b69-23d9-4e14-97e6-459ba2038b84")
-	)
-	(wire
-		(pts
 			(xy 441.96 33.02) (xy 440.69 33.02)
 		)
 		(stroke
@@ -4962,16 +4472,6 @@
 			(type default)
 		)
 		(uuid "7cfe0f4e-543f-4dd5-a186-96dd2cd5dcd3")
-	)
-	(wire
-		(pts
-			(xy 359.41 158.75) (xy 359.41 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "7dd695cd-3660-42c4-913d-4d50d36cfa79")
 	)
 	(wire
 		(pts
@@ -5002,26 +4502,6 @@
 			(type solid)
 		)
 		(uuid "7f5daa41-4b60-4eb3-b806-7a7206f455b1")
-	)
-	(wire
-		(pts
-			(xy 356.87 138.43) (xy 356.87 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "7f62ab7f-b93d-4e26-a034-5a8f0e89ce04")
-	)
-	(wire
-		(pts
-			(xy 430.53 138.43) (xy 430.53 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "7f98c0dd-5319-4459-bdf6-7621812728e3")
 	)
 	(wire
 		(pts
@@ -5095,16 +4575,6 @@
 	)
 	(wire
 		(pts
-			(xy 547.37 138.43) (xy 547.37 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "82f30a7d-5274-4b1d-9750-01dfeb802816")
-	)
-	(wire
-		(pts
 			(xy 68.58 59.69) (xy 71.12 59.69)
 		)
 		(stroke
@@ -5162,16 +4632,6 @@
 			(type solid)
 		)
 		(uuid "8784f12c-6f9e-466c-897e-7757f5379f76")
-	)
-	(wire
-		(pts
-			(xy 618.49 158.75) (xy 618.49 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "87c03c79-f760-4156-8a7d-3bb211291c56")
 	)
 	(wire
 		(pts
@@ -5235,26 +4695,6 @@
 	)
 	(wire
 		(pts
-			(xy 422.91 158.75) (xy 422.91 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "8a067918-445f-438d-9575-814f5596f422")
-	)
-	(wire
-		(pts
-			(xy 457.2 138.43) (xy 457.2 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "8a13a7ae-74c1-4828-ba24-502df6161edf")
-	)
-	(wire
-		(pts
 			(xy 365.76 55.88) (xy 359.41 55.88)
 		)
 		(stroke
@@ -5295,36 +4735,6 @@
 	)
 	(wire
 		(pts
-			(xy 491.49 158.75) (xy 491.49 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "8fa43cca-9ca3-47a7-a65f-7b549177619c")
-	)
-	(wire
-		(pts
-			(xy 613.41 158.75) (xy 613.41 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "909d4abb-1d0a-41a3-af90-15c12580f638")
-	)
-	(wire
-		(pts
-			(xy 449.58 158.75) (xy 449.58 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "9100eb9c-985e-4835-89c7-b2404e66bc41")
-	)
-	(wire
-		(pts
 			(xy 167.64 40.64) (xy 162.56 40.64)
 		)
 		(stroke
@@ -5355,16 +4765,6 @@
 	)
 	(wire
 		(pts
-			(xy 608.33 158.75) (xy 608.33 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "92d3c88f-a140-4d44-99ae-15a9fbd2ba70")
-	)
-	(wire
-		(pts
 			(xy 68.58 46.99) (xy 83.82 46.99)
 		)
 		(stroke
@@ -5382,16 +4782,6 @@
 			(type default)
 		)
 		(uuid "933b2161-0838-48fc-9d35-880ee5d0dd2b")
-	)
-	(wire
-		(pts
-			(xy 594.36 138.43) (xy 594.36 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "9356de07-ed3e-44a4-aa0f-7fce567badaa")
 	)
 	(wire
 		(pts
@@ -5485,16 +4875,6 @@
 	)
 	(wire
 		(pts
-			(xy 542.29 158.75) (xy 542.29 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "9b89e3bf-e6b7-4f4e-9013-86ad7c67d83f")
-	)
-	(wire
-		(pts
 			(xy 127 71.12) (xy 127 73.66)
 		)
 		(stroke
@@ -5502,16 +4882,6 @@
 			(type solid)
 		)
 		(uuid "9bb2f549-407c-4650-9792-f53c5688b5d7")
-	)
-	(wire
-		(pts
-			(xy 576.58 158.75) (xy 576.58 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "9d72d4e1-802b-4918-b2ff-db2f5ab6452e")
 	)
 	(wire
 		(pts
@@ -5565,26 +4935,6 @@
 	)
 	(wire
 		(pts
-			(xy 621.03 138.43) (xy 621.03 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a168e8b7-b11e-440d-8ac8-3699177c2514")
-	)
-	(wire
-		(pts
-			(xy 369.57 158.75) (xy 369.57 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a20fadcd-53e0-4969-8219-ac82e44e35c0")
-	)
-	(wire
-		(pts
 			(xy 147.32 158.75) (xy 147.32 138.43)
 		)
 		(stroke
@@ -5615,56 +4965,6 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 158.75) (xy 374.65 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a446803b-c692-4043-b535-ddaf1fe294a0")
-	)
-	(wire
-		(pts
-			(xy 626.11 138.43) (xy 626.11 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a55553ad-0ca8-4d58-86cc-8425fa63a1dc")
-	)
-	(wire
-		(pts
-			(xy 544.83 158.75) (xy 544.83 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a5a0218c-2506-46a4-8602-8b4267016afd")
-	)
-	(wire
-		(pts
-			(xy 586.74 158.75) (xy 586.74 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a686fbdc-ff39-495b-935e-df3cc19a2bd0")
-	)
-	(wire
-		(pts
-			(xy 557.53 138.43) (xy 557.53 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a6f03747-136e-4998-8661-fd584078a299")
-	)
-	(wire
-		(pts
 			(xy 232.41 158.75) (xy 232.41 138.43)
 		)
 		(stroke
@@ -5672,16 +4972,6 @@
 			(type solid)
 		)
 		(uuid "a7b41f08-f448-48cc-a895-91dd3ea0e839")
-	)
-	(wire
-		(pts
-			(xy 417.83 158.75) (xy 417.83 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a83cb17f-1283-46cd-b028-6ace9b30081b")
 	)
 	(wire
 		(pts
@@ -5715,16 +5005,6 @@
 	)
 	(wire
 		(pts
-			(xy 589.28 138.43) (xy 589.28 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "ad012f21-5844-45f2-871a-27f49e177228")
-	)
-	(wire
-		(pts
 			(xy 152.4 138.43) (xy 152.4 158.75)
 		)
 		(stroke
@@ -5752,16 +5032,6 @@
 			(type default)
 		)
 		(uuid "b23a1be8-a627-4dce-9478-2250b36be169")
-	)
-	(wire
-		(pts
-			(xy 391.16 158.75) (xy 391.16 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "b27fafed-10d4-4d57-9344-fab46a8e250e")
 	)
 	(wire
 		(pts
@@ -5795,16 +5065,6 @@
 	)
 	(wire
 		(pts
-			(xy 467.36 138.43) (xy 467.36 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "b7735727-8e68-4969-a0a8-de9e97bcf4a9")
-	)
-	(wire
-		(pts
 			(xy 127 73.66) (xy 127 82.55)
 		)
 		(stroke
@@ -5812,26 +5072,6 @@
 			(type solid)
 		)
 		(uuid "b8896f3a-78a7-41cf-8434-22c1452e2eb2")
-	)
-	(wire
-		(pts
-			(xy 478.79 158.75) (xy 478.79 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "b9085af2-52f4-4e5a-8a9c-156efe5d4da2")
-	)
-	(wire
-		(pts
-			(xy 433.07 158.75) (xy 433.07 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "b9f6e38a-8824-4892-a0d1-e337a465a257")
 	)
 	(wire
 		(pts
@@ -5855,26 +5095,6 @@
 	)
 	(wire
 		(pts
-			(xy 628.65 158.75) (xy 628.65 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "bcf0d815-d5ad-45f6-bf24-6a5904b0d86b")
-	)
-	(wire
-		(pts
-			(xy 528.32 158.75) (xy 528.32 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "bd1505d9-e596-47f4-a0c6-c6a180a91f88")
-	)
-	(wire
-		(pts
 			(xy 431.8 21.59) (xy 464.82 21.59)
 		)
 		(stroke
@@ -5882,16 +5102,6 @@
 			(type solid)
 		)
 		(uuid "beb927cf-a3df-4c2b-a72d-c5dffca01675")
-	)
-	(wire
-		(pts
-			(xy 406.4 158.75) (xy 406.4 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "bf123300-be1d-4118-ad17-a656a3a11438")
 	)
 	(wire
 		(pts
@@ -5985,36 +5195,6 @@
 	)
 	(wire
 		(pts
-			(xy 596.9 158.75) (xy 596.9 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "c33559a3-da3d-4545-9a77-ab7a7b523908")
-	)
-	(wire
-		(pts
-			(xy 610.87 138.43) (xy 610.87 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "c69a2995-8d21-480b-ad87-67d355d5090a")
-	)
-	(wire
-		(pts
-			(xy 552.45 138.43) (xy 552.45 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "c7a7e26c-ab93-4d47-bfb6-a3edcf3c14ad")
-	)
-	(wire
-		(pts
 			(xy 71.12 68.58) (xy 127 68.58)
 		)
 		(stroke
@@ -6035,16 +5215,6 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 138.43) (xy 425.45 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "c86b570b-07c1-404b-9f05-c45b4a88bde0")
-	)
-	(wire
-		(pts
 			(xy 162.56 55.88) (xy 173.99 55.88)
 		)
 		(stroke
@@ -6052,16 +5222,6 @@
 			(type default)
 		)
 		(uuid "ca0a53ea-9252-496d-aecc-1d7d0d006672")
-	)
-	(wire
-		(pts
-			(xy 438.15 158.75) (xy 438.15 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "ca8497cf-94bf-4b70-a227-22420d10c2e7")
 	)
 	(wire
 		(pts
@@ -6082,16 +5242,6 @@
 			(type solid)
 		)
 		(uuid "cb4fcfa7-6193-43d6-8e5b-691944704ba2")
-	)
-	(wire
-		(pts
-			(xy 554.99 158.75) (xy 554.99 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "cb5ff81e-fdd9-484f-8d6f-4f531fb0a97a")
 	)
 	(wire
 		(pts
@@ -6165,16 +5315,6 @@
 	)
 	(wire
 		(pts
-			(xy 481.33 158.75) (xy 481.33 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "d27a666c-a43d-4d12-b43a-7e027ff98a52")
-	)
-	(wire
-		(pts
 			(xy 168.91 158.75) (xy 168.91 138.43)
 		)
 		(stroke
@@ -6192,16 +5332,6 @@
 			(type solid)
 		)
 		(uuid "d54bf363-5a5b-4b1c-a050-24a6e3fd9641")
-	)
-	(wire
-		(pts
-			(xy 335.28 138.43) (xy 335.28 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "d59fd224-0858-44a5-83b4-8704a34dc0db")
 	)
 	(wire
 		(pts
@@ -6265,16 +5395,6 @@
 	)
 	(wire
 		(pts
-			(xy 494.03 138.43) (xy 494.03 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "d9e1e4c6-853a-4320-9c4a-cecb607c4b2c")
-	)
-	(wire
-		(pts
 			(xy 276.86 138.43) (xy 276.86 158.75)
 		)
 		(stroke
@@ -6315,16 +5435,6 @@
 	)
 	(wire
 		(pts
-			(xy 562.61 138.43) (xy 562.61 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "de411b9a-8327-465c-8244-2889f4f9119a")
-	)
-	(wire
-		(pts
 			(xy 288.29 20.32) (xy 364.49 20.32)
 		)
 		(stroke
@@ -6345,16 +5455,6 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 158.75) (xy 322.58 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "e13c51dc-e38f-40de-8687-685c34c43de1")
-	)
-	(wire
-		(pts
 			(xy 279.4 102.87) (xy 359.41 102.87)
 		)
 		(stroke
@@ -6365,16 +5465,6 @@
 	)
 	(wire
 		(pts
-			(xy 462.28 138.43) (xy 462.28 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "e2752f39-ff74-40ab-8dd8-c7c55332fea9")
-	)
-	(wire
-		(pts
 			(xy 127 35.56) (xy 127 31.75)
 		)
 		(stroke
@@ -6382,16 +5472,6 @@
 			(type default)
 		)
 		(uuid "e305991a-d5c0-4b4b-86df-0d8716ea52aa")
-	)
-	(wire
-		(pts
-			(xy 523.24 158.75) (xy 523.24 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "e3b7af45-574d-4f94-80a8-12b8b60a6047")
 	)
 	(wire
 		(pts
@@ -6475,26 +5555,6 @@
 	)
 	(wire
 		(pts
-			(xy 332.74 158.75) (xy 332.74 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "e9c5d318-ca75-4599-aa74-928e767f3e49")
-	)
-	(wire
-		(pts
-			(xy 574.04 158.75) (xy 574.04 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "eb058e3e-c36f-40dd-8131-364947733135")
-	)
-	(wire
-		(pts
 			(xy 215.9 158.75) (xy 215.9 138.43)
 		)
 		(stroke
@@ -6525,16 +5585,6 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 138.43) (xy 330.2 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "eedf2262-61cc-4e02-ad89-f18abede3775")
-	)
-	(wire
-		(pts
 			(xy 162.56 50.8) (xy 172.72 50.8)
 		)
 		(stroke
@@ -6552,36 +5602,6 @@
 			(type solid)
 		)
 		(uuid "f0162397-b3ae-4c03-bd83-3ca500526f1e")
-	)
-	(wire
-		(pts
-			(xy 499.11 138.43) (xy 499.11 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "f2f1a5b2-8800-4539-bcc1-26b1d736d72f")
-	)
-	(wire
-		(pts
-			(xy 393.7 138.43) (xy 393.7 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "f2f1e53f-4482-46ca-85ca-3190664989cd")
-	)
-	(wire
-		(pts
-			(xy 420.37 138.43) (xy 420.37 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "f445504c-2234-4023-90cf-fa450d8e5ad2")
 	)
 	(wire
 		(pts
@@ -6675,16 +5695,6 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 158.75) (xy 383.54 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "f8c9f1a1-28c7-4b1a-a3c2-967f394f6f10")
-	)
-	(wire
-		(pts
 			(xy 289.56 71.12) (xy 279.4 71.12)
 		)
 		(stroke
@@ -6713,36 +5723,6 @@
 		)
 		(uuid "fee43712-22d8-4db1-92a8-2882253af55d")
 	)
-	(wire
-		(pts
-			(xy 398.78 138.43) (xy 398.78 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "ffe01d8e-3c0e-4251-912a-b3c1457ade1c")
-	)
-	(label "DIR"
-		(at 483.87 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "015c0df0-fbd4-46b3-81e9-54d2bc9bc356")
-	)
-	(label "INDEX"
-		(at 591.82 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "02dbf1df-e143-4b80-93a7-854ccd8d740d")
-	)
 	(label "D4"
 		(at 83.82 52.07 180)
 		(effects
@@ -6763,66 +5743,6 @@
 		)
 		(uuid "05b20e30-1143-418a-80ea-41ddfeebe8e5")
 	)
-	(label "DIAG"
-		(at 398.78 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "082bb0e3-40fc-4a0f-a188-206427f78a00")
-	)
-	(label "DIR"
-		(at 579.12 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "0908ff06-6f7c-47d1-bcc8-985a2920c537")
-	)
-	(label "ENABLE"
-		(at 565.15 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "0bdc59b2-a14e-475a-9d57-aef7c5874248")
-	)
-	(label "INDEX"
-		(at 623.57 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "0c0bf611-b0ce-4e36-9eba-69e43aa540f0")
-	)
-	(label "ENABLE"
-		(at 533.4 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "0e1d0e7b-a0d7-405a-af31-c9f7844aae9c")
-	)
-	(label "MS1"
-		(at 615.95 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "10386a37-fa14-457c-a788-0a109df0c65d")
-	)
 	(label "DIR"
 		(at 229.87 138.43 270)
 		(effects
@@ -6842,16 +5762,6 @@
 			(justify right bottom)
 		)
 		(uuid "1fa06369-7697-4ab6-94ed-fb702de8cdc7")
-	)
-	(label "STEP"
-		(at 422.91 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "20a92749-d7af-4e75-a6ff-9801e2a5ef52")
 	)
 	(label "*D5"
 		(at 83.82 49.53 180)
@@ -6893,56 +5803,6 @@
 		)
 		(uuid "23f8d9da-58d0-4b4d-a708-66ce5c835b5b")
 	)
-	(label "DIAG"
-		(at 557.53 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "24ecf0ba-a587-464b-bf74-60505c382b3f")
-	)
-	(label "DIAG"
-		(at 621.03 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "250cdeed-b13a-4ea9-ae67-a9b4923a029b")
-	)
-	(label "INDEX"
-		(at 464.82 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "27ac9ac3-6f00-40d7-876b-8cb3cb16b11e")
-	)
-	(label "STEP"
-		(at 486.41 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "2b3e156d-1c40-431c-b9d6-bb508d59c1b8")
-	)
-	(label "ENABLE"
-		(at 374.65 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "2bfd3cb8-427e-471b-ba04-882f31dbe5ee")
-	)
 	(label "A2"
 		(at 30.48 44.45 0)
 		(effects
@@ -6972,26 +5832,6 @@
 			(justify right bottom)
 		)
 		(uuid "308b4b45-d0ac-414e-9633-752bd4beb615")
-	)
-	(label "STEP"
-		(at 327.66 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "30b1e7e8-fb24-4176-874f-b54f512e732f")
-	)
-	(label "ENABLE"
-		(at 469.9 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "30fcba9c-5887-4ac9-b70f-691464643293")
 	)
 	(label "DIAG"
 		(at 240.03 138.43 270)
@@ -7044,26 +5884,6 @@
 		(uuid "35aa9747-84c7-4f0d-ba65-90f1b83ea00b")
 	)
 	(label "DIAG"
-		(at 589.28 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "371f00d8-03ca-4603-9ee5-8e980e25c14a")
-	)
-	(label "MS2"
-		(at 554.99 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "3a0ac4af-d435-4f19-b9cc-4ba1823b7f35")
-	)
-	(label "DIAG"
 		(at 176.53 138.43 270)
 		(effects
 			(font
@@ -7072,16 +5892,6 @@
 			(justify right bottom)
 		)
 		(uuid "3b771b6b-7c50-4560-a2d4-adfbc125f254")
-	)
-	(label "INDEX"
-		(at 560.07 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "3dfd056d-859e-4b93-bdbf-9069c7a1278f")
 	)
 	(label "STEP"
 		(at 295.91 138.43 270)
@@ -7093,16 +5903,6 @@
 		)
 		(uuid "437087c7-93d2-4e2b-8ea4-d98affc4f1cd")
 	)
-	(label "UART"
-		(at 499.11 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "4586e31a-4e3b-4cb7-9e34-ef39b552bdcf")
-	)
 	(label "DIAG"
 		(at 144.78 138.43 270)
 		(effects
@@ -7112,16 +5912,6 @@
 			(justify right bottom)
 		)
 		(uuid "4667db7c-63ee-4faf-b0fa-1c9a2ad1d7b1")
-	)
-	(label "INDEX"
-		(at 337.82 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "46d759a8-47ea-4dea-b474-28de099104af")
 	)
 	(label "UART"
 		(at 276.86 138.43 270)
@@ -7133,16 +5923,6 @@
 		)
 		(uuid "494f6d84-2f03-4740-b539-d9685b748a25")
 	)
-	(label "UART"
-		(at 562.61 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "4b525405-c80b-46c9-b8f8-d38f301d3af2")
-	)
 	(label "D13{slash}SCK"
 		(at 30.48 31.75 0)
 		(effects
@@ -7152,16 +5932,6 @@
 			(justify left bottom)
 		)
 		(uuid "4df5306c-d1f8-4f35-9e22-6412b2c40f94")
-	)
-	(label "ENABLE"
-		(at 628.65 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "51bc2086-452b-4256-abbb-e6c01a4ae208")
 	)
 	(label "Z_STEP_MOt"
 		(at 200.66 166.37 0)
@@ -7173,16 +5943,6 @@
 		)
 		(uuid "51d7b620-424e-4b58-98dc-6e4c825e04b9")
 	)
-	(label "ENABLE"
-		(at 596.9 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "52002c80-d225-44f7-9305-21661244bcaa")
-	)
 	(label "MS1"
 		(at 298.45 138.43 270)
 		(effects
@@ -7192,16 +5952,6 @@
 			(justify right bottom)
 		)
 		(uuid "53496b8e-ef94-40bc-ae22-9f9affc154c0")
-	)
-	(label "DIR"
-		(at 420.37 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "54441ad2-6127-4d97-9e88-19f66229d536")
 	)
 	(label "A7"
 		(at 30.48 57.15 0)
@@ -7223,16 +5973,6 @@
 		)
 		(uuid "5703458f-5a9a-466b-bc6c-aa562c1c2ef4")
 	)
-	(label "STEP"
-		(at 613.41 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "5a98895a-9fd2-4864-9402-83149a6066c9")
-	)
 	(label "MS1"
 		(at 266.7 138.43 270)
 		(effects
@@ -7252,66 +5992,6 @@
 			(justify right bottom)
 		)
 		(uuid "61132bd2-4cc5-4366-9262-e88893dc20a1")
-	)
-	(label "UART"
-		(at 372.11 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "64627c9d-76df-4506-ae31-dd1820a3a23e")
-	)
-	(label "MS1"
-		(at 361.95 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "6604184a-db93-4d43-b32d-d78331b54e5e")
-	)
-	(label "UART"
-		(at 594.36 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "6798c6a1-dce2-4ac3-b13b-d7a963af49f5")
-	)
-	(label "UART"
-		(at 403.86 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "6b96faba-d2b1-4363-bd18-c038bc350f8a")
-	)
-	(label "DIR"
-		(at 356.87 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "717a9f29-bfad-46ce-8341-d4d12195748d")
-	)
-	(label "MS1"
-		(at 393.7 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "741cf782-e41f-4fc4-a235-78ae5dadef26")
 	)
 	(label "*D11{slash}MOSI"
 		(at 83.82 34.29 180)
@@ -7373,26 +6053,6 @@
 		)
 		(uuid "7c6bdfea-ffe2-4b64-a343-0894cea2fdc0")
 	)
-	(label "INDEX"
-		(at 369.57 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "7e5fbc88-6648-48f6-a220-974b6a860e2b")
-	)
-	(label "UART"
-		(at 530.86 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "7f845fed-b24d-4123-8ab5-9365bf3498da")
-	)
 	(label "DIR"
 		(at 293.37 138.43 270)
 		(effects
@@ -7402,26 +6062,6 @@
 			(justify right bottom)
 		)
 		(uuid "7ff753d2-bb70-4c97-a7fe-d6dcff6b081c")
-	)
-	(label "UART"
-		(at 340.36 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "80fdfed7-3b44-4e05-92a1-ba88ec524041")
-	)
-	(label "INDEX"
-		(at 496.57 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "82f96e79-573b-4325-848b-9387b726fd84")
 	)
 	(label "ENABLE"
 		(at 152.4 138.43 270)
@@ -7433,16 +6073,6 @@
 		)
 		(uuid "8619665e-add4-44b4-b658-69b956b18936")
 	)
-	(label "MS2"
-		(at 491.49 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "8632ce5d-acb8-49ff-aabc-8f725d2620dc")
-	)
 	(label "INDEX"
 		(at 210.82 138.43 270)
 		(effects
@@ -7452,16 +6082,6 @@
 			(justify right bottom)
 		)
 		(uuid "8719440d-a26c-4825-bca7-1fb2e44c5b87")
-	)
-	(label "DIR"
-		(at 388.62 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "878999a3-57c6-4911-b262-150030d34f62")
 	)
 	(label "ENABLE"
 		(at 311.15 138.43 270)
@@ -7473,26 +6093,6 @@
 		)
 		(uuid "88e9ff90-d305-46cd-8ba1-ce9c2ea3f622")
 	)
-	(label "MS2"
-		(at 396.24 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "8bf838cc-eb0d-4227-b7db-585d5a4e0f17")
-	)
-	(label "MS1"
-		(at 330.2 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "8d154054-0c96-4e7d-b735-705995d8470b")
-	)
 	(label "A4{slash}SDA"
 		(at 30.48 49.53 0)
 		(effects
@@ -7502,16 +6102,6 @@
 			(justify left bottom)
 		)
 		(uuid "8d4e04e4-83b1-41ce-8748-071f7ad61cba")
-	)
-	(label "DIR"
-		(at 452.12 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "8fe5262c-fc6c-45ff-bf15-6fcf8c11e85e")
 	)
 	(label "MS1"
 		(at 234.95 138.43 270)
@@ -7533,16 +6123,6 @@
 		)
 		(uuid "90cf52df-bd79-404d-aa60-e254d08b5d48")
 	)
-	(label "INDEX"
-		(at 433.07 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "91d5bfce-d7ca-4774-a495-278ac3ad63ce")
-	)
 	(label "DIR"
 		(at 134.62 138.43 270)
 		(effects
@@ -7563,26 +6143,6 @@
 		)
 		(uuid "93142f41-2cc9-42ef-8602-cbf1ea732ad2")
 	)
-	(label "INDEX"
-		(at 528.32 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "939bfe31-06ed-4f87-aad6-f6a438c4049a")
-	)
-	(label "INDEX"
-		(at 401.32 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "93e58224-5896-4e20-bec4-310b36e5514d")
-	)
 	(label "R_STEP_1"
 		(at 135.89 166.37 0)
 		(effects
@@ -7592,26 +6152,6 @@
 			(justify left bottom)
 		)
 		(uuid "93fc1e6a-4e01-42dd-a2a5-41faeeaadd01")
-	)
-	(label "DIR"
-		(at 610.87 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "975f781d-2dfa-43b0-9889-dd19011ef3e9")
-	)
-	(label "MS1"
-		(at 520.7 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "98898b10-356a-4b9d-96b3-a8b3395c51f1")
 	)
 	(label "MS2"
 		(at 173.99 138.43 270)
@@ -7642,36 +6182,6 @@
 			(justify right bottom)
 		)
 		(uuid "a0454b37-70d7-4b31-ae4a-8825b45d6f65")
-	)
-	(label "STEP"
-		(at 454.66 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "a0aa4806-c622-45bc-8373-d0a12895ec4d")
-	)
-	(label "MS1"
-		(at 488.95 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "a49fee86-984e-4be7-b163-1c7c819bf87a")
-	)
-	(label "DIR"
-		(at 325.12 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "a6b18a0c-a5c8-44e9-aa01-368c2c6b9951")
 	)
 	(label "A3"
 		(at 30.48 46.99 0)
@@ -7723,16 +6233,6 @@
 		)
 		(uuid "a8f529f9-3981-412d-9906-5e875e982acd")
 	)
-	(label "ENABLE"
-		(at 342.9 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "aaa4dc22-3a18-4d21-a0c2-c23dbd9bce48")
-	)
 	(label "A6"
 		(at 30.48 54.61 0)
 		(effects
@@ -7753,16 +6253,6 @@
 		)
 		(uuid "af22c88c-fcb5-4412-b247-91bcb92cd0a1")
 	)
-	(label "STEP"
-		(at 581.66 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "afb3e809-ca51-460c-88b8-540569f49433")
-	)
 	(label "INDEX"
 		(at 147.32 138.43 270)
 		(effects
@@ -7773,16 +6263,6 @@
 		)
 		(uuid "b170e0ab-c905-4a43-8481-bd4daf3e7156")
 	)
-	(label "DIR"
-		(at 547.37 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "b5985b0b-a00b-4878-9dec-630d6d046d22")
-	)
 	(label "ENABLE"
 		(at 247.65 138.43 270)
 		(effects
@@ -7792,16 +6272,6 @@
 			(justify right bottom)
 		)
 		(uuid "b6723140-3bef-40b6-be7e-412463725fd9")
-	)
-	(label "ENABLE"
-		(at 406.4 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "b6f33034-d070-4301-b7a4-ad6c183ade7c")
 	)
 	(label "ENABLE"
 		(at 184.15 138.43 270)
@@ -7853,36 +6323,6 @@
 		)
 		(uuid "be89af43-9c65-4f05-947b-991e24240f88")
 	)
-	(label "MS1"
-		(at 457.2 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "bf29e9a7-73e8-4ada-940c-f212a0d069a8")
-	)
-	(label "DIR"
-		(at 515.62 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "bfb66bf6-006f-4276-b43e-80b9e33e9129")
-	)
-	(label "ENABLE"
-		(at 501.65 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "c057a46f-5945-421d-8455-6bee970e1450")
-	)
 	(label "DIR"
 		(at 198.12 138.43 270)
 		(effects
@@ -7892,36 +6332,6 @@
 			(justify right bottom)
 		)
 		(uuid "c0d0320f-21a4-4caf-85e3-f3505a270bd6")
-	)
-	(label "STEP"
-		(at 549.91 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "c12a3a62-1759-49a9-9c30-e3e154a9e03b")
-	)
-	(label "MS2"
-		(at 364.49 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "c1bba0a5-e919-4c99-9011-91459aa6a529")
-	)
-	(label "MS2"
-		(at 332.74 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "c3c1814b-75e3-4bc4-a404-7c3fcbf30beb")
 	)
 	(label "MS2"
 		(at 205.74 138.43 270)
@@ -7942,36 +6352,6 @@
 			(justify right bottom)
 		)
 		(uuid "c7c752d9-073c-43c6-aa61-7daad5f6cc5f")
-	)
-	(label "UART"
-		(at 435.61 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "c8baac3b-c2b6-42ad-9446-6124842bc502")
-	)
-	(label "DIAG"
-		(at 367.03 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "c8bc4173-a71e-44c9-9f00-9c1c546b4ead")
-	)
-	(label "DIAG"
-		(at 335.28 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "ca982c54-c486-4e68-bb2a-3e3ee283f69e")
 	)
 	(label "R_STEP_2"
 		(at 167.64 166.37 0)
@@ -8013,56 +6393,6 @@
 		)
 		(uuid "d03eec93-7c33-497c-9c36-439d68e16cff")
 	)
-	(label "UART"
-		(at 467.36 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "d14fe995-7323-4eba-89e6-1be5ac72af70")
-	)
-	(label "STEP"
-		(at 359.41 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "d171a046-b82d-408f-802e-5d567b67428b")
-	)
-	(label "STEP"
-		(at 391.16 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "d3bf6053-ec95-45ab-95cd-704a89a291c4")
-	)
-	(label "DIAG"
-		(at 462.28 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "d578212e-d01f-4c97-b04f-e108c08067e6")
-	)
-	(label "STEP"
-		(at 518.16 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "d5b2c71a-f4b2-4dc8-b694-a606931f64b0")
-	)
 	(label "D8"
 		(at 83.82 41.91 180)
 		(effects
@@ -8093,56 +6423,6 @@
 		)
 		(uuid "dc63ba23-aaf4-4703-b48b-fd89fd9c2302")
 	)
-	(label "MS1"
-		(at 552.45 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "dc7de1a3-ffd7-4007-965c-eddc86083b42")
-	)
-	(label "DIAG"
-		(at 494.03 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "dcf7bec5-d8e7-4bb9-adcb-c7e76c870b7c")
-	)
-	(label "DIAG"
-		(at 430.53 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "dd8915d8-0154-404c-bbd5-b6b3794d4cb6")
-	)
-	(label "MS2"
-		(at 459.74 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "e0656353-8005-469d-8559-90f65e594106")
-	)
-	(label "DIAG"
-		(at 525.78 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "e19eac6a-02e0-4ef1-b601-2d90941594db")
-	)
 	(label "INDEX"
 		(at 274.32 138.43 270)
 		(effects
@@ -8163,36 +6443,6 @@
 		)
 		(uuid "e7297d98-854d-436c-b2f8-dfa0a0bc4452")
 	)
-	(label "MS2"
-		(at 523.24 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "e7c25476-a166-4d3c-a6af-854505a61b11")
-	)
-	(label "MS2"
-		(at 427.99 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "ef033b4a-7c92-4cd4-af8c-9dd682f1cbbb")
-	)
-	(label "ENABLE"
-		(at 438.15 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "f027c1fa-911c-4e03-a160-c9e783b4b66d")
-	)
 	(label "*D10{slash}SS"
 		(at 83.82 36.83 180)
 		(effects
@@ -8202,26 +6452,6 @@
 			(justify right bottom)
 		)
 		(uuid "f17347a3-5341-4d84-921e-21b145a275f5")
-	)
-	(label "MS2"
-		(at 618.49 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "f382fef7-3cbe-4afe-a033-988e2703cfc2")
-	)
-	(label "UART"
-		(at 626.11 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "f8e5663e-d861-424c-9dc9-6707a7a69d67")
 	)
 	(label "D12{slash}MISO"
 		(at 83.82 31.75 180)
@@ -8252,36 +6482,6 @@
 			(justify right bottom)
 		)
 		(uuid "fafd0bdc-bf6a-4318-bc5f-f7bddb5f4651")
-	)
-	(label "MS1"
-		(at 425.45 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "fb394186-0cc0-463a-b82f-049d4d101846")
-	)
-	(label "MS2"
-		(at 586.74 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "fdc372af-4e65-466e-b7d9-385064f177f7")
-	)
-	(label "MS1"
-		(at 584.2 138.43 270)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "fe64e959-975e-4f68-8db8-93471c563c3f")
 	)
 	(global_label "CS"
 		(shape input)
@@ -8617,113 +6817,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:HEADER-1X1070MIL")
-		(at 457.2 161.29 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "02b66ebe-44bd-4436-8d6d-5335de438e4e")
-		(property "Reference" "JP14"
-			(at 443.865 154.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "HEADER-1X1070MIL"
-			(at 474.98 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit TMC2209 Stepper Motor Driver:1X10_ROUND70"
-			(at 457.2 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 457.2 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 457.2 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "5d16c442-114f-4692-a916-dda65fbdd598")
-		)
-		(pin "8"
-			(uuid "ad020888-5770-4eff-8dcf-313ec2db4b9f")
-		)
-		(pin "1"
-			(uuid "dadc63ea-875f-4381-9db5-7cf4079de07a")
-		)
-		(pin "2"
-			(uuid "deedd1b8-495c-401f-86c3-28ca420df750")
-		)
-		(pin "3"
-			(uuid "f16039fa-8270-43cc-9a75-02aa45d24345")
-		)
-		(pin "4"
-			(uuid "1f7ad4e9-a745-4640-8b07-0cfc859e22b8")
-		)
-		(pin "9"
-			(uuid "3eaf214d-f2b1-4a9c-ae6a-2e6f7a34569f")
-		)
-		(pin "10"
-			(uuid "c880f99b-13f8-4366-90bf-6db510fdcdad")
-		)
-		(pin "7"
-			(uuid "c05c800b-5dc0-478d-9d21-ba86ab14a3f0")
-		)
-		(pin "6"
-			(uuid "fb2105df-ff9a-4f09-8026-704313aef50a")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "JP14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
 		(at 129.54 135.89 0)
 		(mirror y)
@@ -8797,85 +6890,6 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "#U$020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 386.08 135.89 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0b7a134b-400c-4ecc-b4c4-015a8b0be0b7")
-		(property "Reference" "#U$09"
-			(at 386.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 384.556 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 386.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 386.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 386.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "75c14dff-e037-40cb-beb1-42fe668ed7f3")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$09")
 					(unit 1)
 				)
 			)
@@ -8958,192 +6972,6 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
-		(at 317.5 138.43 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "135bf1af-c790-45e9-8b29-13ce5172bf44")
-		(property "Reference" "#U$026"
-			(at 317.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 316.484 136.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 317.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 317.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 317.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "660c03e2-2648-46d3-9e26-6dfd16515e27")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:HEADER-1X1070MIL")
-		(at 615.95 161.29 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "14a3c9ca-f866-48b0-ab2c-34dd589408d6")
-		(property "Reference" "JP19"
-			(at 602.615 154.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "HEADER-1X1070MIL"
-			(at 633.73 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit TMC2209 Stepper Motor Driver:1X10_ROUND70"
-			(at 615.95 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 615.95 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 615.95 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "03896455-aefa-432d-824a-5989dd1fc7e5")
-		)
-		(pin "8"
-			(uuid "f6597c76-aa05-405c-978a-9abd9de8c323")
-		)
-		(pin "1"
-			(uuid "a670537f-9fa3-4a62-9674-b28c1ae1191c")
-		)
-		(pin "2"
-			(uuid "7ba63a66-4587-4d07-b66c-432ce2373ce0")
-		)
-		(pin "3"
-			(uuid "e3121487-4b42-46cb-8ff4-83ac2bb24c67")
-		)
-		(pin "4"
-			(uuid "89b654bd-9839-4281-a95a-a977ce852c8b")
-		)
-		(pin "9"
-			(uuid "e38e638a-58b5-48c0-ab26-da723b5b770a")
-		)
-		(pin "10"
-			(uuid "e8b9d218-9c45-4b44-bf0e-7d7476cdd231")
-		)
-		(pin "7"
-			(uuid "89e48577-6ca5-434f-a499-623980406ce3")
-		)
-		(pin "6"
-			(uuid "4535c8b9-7f12-4616-ac71-32ed5d9df706")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "JP19")
 					(unit 1)
 				)
 			)
@@ -9388,164 +7216,6 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "U6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
-		(at 508 138.43 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1e08d558-6311-4651-ad16-0df4eac83fb2")
-		(property "Reference" "#U$032"
-			(at 508 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 506.984 136.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 508 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 508 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 508 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7bfa9e8b-efc5-4efa-a229-d98e1f349a26")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 481.33 135.89 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1e4654f3-1db4-4614-948d-c9cc6fbc33a9")
-		(property "Reference" "#U$012"
-			(at 481.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 479.806 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 481.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 481.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 481.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a6210e64-51da-4d3e-8577-b0bee8effb59")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$012")
 					(unit 1)
 				)
 			)
@@ -9819,85 +7489,6 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
-		(at 571.5 138.43 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2af39541-a443-4943-b295-5fc09234db4c")
-		(property "Reference" "#U$034"
-			(at 571.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 570.484 136.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 571.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 571.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 571.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "455a4047-53d0-4996-b184-a4fb1d9a37f9")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$034")
 					(unit 1)
 				)
 			)
@@ -10259,85 +7850,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
-		(at 349.25 138.43 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4a43d1d9-a3e4-4a8d-9014-85a6120dba52")
-		(property "Reference" "#U$027"
-			(at 349.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 348.234 136.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 349.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 349.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 349.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "489a8443-f7a2-445f-a63b-345f838ae588")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Micro_SD_Card_Det_Hirose_DM3AT")
 		(at 73.66 107.95 0)
 		(unit 1)
@@ -10691,85 +8203,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 417.83 135.89 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "637c569c-f151-440d-b737-02d13bc110e4")
-		(property "Reference" "#U$010"
-			(at 417.83 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 416.306 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 417.83 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 417.83 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 417.83 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4ac9965b-00b7-4b9e-bbcd-ecc37d5b8851")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 43.18 29.21 0)
 		(unit 1)
@@ -10848,85 +8281,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
-		(at 444.5 138.43 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6949e39c-e885-4539-a7ec-04f83a8ede10")
-		(property "Reference" "#U$030"
-			(at 444.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 443.484 136.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 444.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 444.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 444.5 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f16d4248-8fd9-463a-948c-c2d1ff263315")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 45.72 29.21 0)
 		(unit 1)
@@ -10999,85 +8353,6 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "#PWR0102")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 449.58 135.89 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6f3b3304-3151-41b0-bcee-d2358184c87d")
-		(property "Reference" "#U$011"
-			(at 449.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 448.056 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 449.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 449.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 449.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7c3cc50e-c33f-42b1-94f4-ab7d794531b6")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$011")
 					(unit 1)
 				)
 			)
@@ -11243,164 +8518,6 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "U3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
-		(at 381 138.43 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "764f5807-2498-448f-936d-926574257bf0")
-		(property "Reference" "#U$028"
-			(at 381 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 379.984 136.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 381 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 381 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 381 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a60cee51-29e0-41a0-8b14-e9e94394e136")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$028")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 576.58 135.89 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "77413486-e088-4759-8584-72e30d49ed7a")
-		(property "Reference" "#U$015"
-			(at 576.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 575.056 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 576.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 576.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 576.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fdfa5d43-f8d1-45d2-a4ae-b253191f8fc4")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$015")
 					(unit 1)
 				)
 			)
@@ -11829,192 +8946,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 544.83 135.89 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "839ae8f2-c0f2-4077-8767-d2a783d62f2c")
-		(property "Reference" "#U$014"
-			(at 544.83 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 543.306 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 544.83 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 544.83 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 544.83 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2f5debc1-b17b-477e-87fe-89faeccfebf0")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:HEADER-1X1070MIL")
-		(at 584.2 161.29 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "84dbe125-ab02-4586-b459-cec879461b5e")
-		(property "Reference" "JP18"
-			(at 570.865 154.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "HEADER-1X1070MIL"
-			(at 601.98 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit TMC2209 Stepper Motor Driver:1X10_ROUND70"
-			(at 584.2 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 584.2 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 584.2 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "3937c924-cc8e-4ede-a901-0e4411ce0cab")
-		)
-		(pin "8"
-			(uuid "3e39c58e-d457-4d93-a0f2-7a250eebe1c2")
-		)
-		(pin "1"
-			(uuid "9e62d5eb-2b65-4f38-9d8c-c1d7bf400342")
-		)
-		(pin "2"
-			(uuid "ec7e675b-21b3-4ab2-b2b1-8903c830e664")
-		)
-		(pin "3"
-			(uuid "74d1063f-27ab-4192-b6ae-1776419bdc1c")
-		)
-		(pin "4"
-			(uuid "131c9502-170e-4323-87f5-1dd748c3d977")
-		)
-		(pin "9"
-			(uuid "1e67799e-1216-403d-9ba7-96c8e70bd979")
-		)
-		(pin "10"
-			(uuid "b5ae7e2a-b63b-4993-882a-229fbc9d6616")
-		)
-		(pin "7"
-			(uuid "25bf93db-56df-4245-9447-a6e9894356f1")
-		)
-		(pin "6"
-			(uuid "4fe97c28-d1fb-4b3a-aed4-d477162090a9")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "JP18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 203.2 27.94 0)
 		(unit 1)
@@ -12415,299 +9346,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 354.33 135.89 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "96e180e7-2c88-4c6a-9260-c46da77882e4")
-		(property "Reference" "#U$08"
-			(at 354.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 352.806 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 354.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 354.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 354.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "65cf5a99-7cfb-4055-b314-c94dbba98759")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:HEADER-1X1070MIL")
-		(at 488.95 161.29 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9a1128d6-626b-4e45-b9dc-fc4dbec8f7eb")
-		(property "Reference" "JP15"
-			(at 475.615 154.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "HEADER-1X1070MIL"
-			(at 506.73 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit TMC2209 Stepper Motor Driver:1X10_ROUND70"
-			(at 488.95 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 488.95 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 488.95 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "93aecf0e-a7a3-4855-83a4-81f97d8addc9")
-		)
-		(pin "8"
-			(uuid "937df4b5-2e49-4dbd-aec1-c3f58ef2bbf3")
-		)
-		(pin "1"
-			(uuid "4d59d478-e4ff-44cc-bc8a-5166707afac0")
-		)
-		(pin "2"
-			(uuid "f78b8d2f-b6ab-4cac-a335-7a5327e9a29a")
-		)
-		(pin "3"
-			(uuid "3fa9e466-c7e2-4686-978e-43fe667e6daf")
-		)
-		(pin "4"
-			(uuid "3ca2be87-34b8-4aa4-8493-0d1f33ac5114")
-		)
-		(pin "9"
-			(uuid "03bf6186-224a-4875-a7fc-cb54c1b46cb5")
-		)
-		(pin "10"
-			(uuid "fc640f02-12dd-4caf-96ee-49265cef0301")
-		)
-		(pin "7"
-			(uuid "006e686e-485b-4318-95e8-80363d4592fa")
-		)
-		(pin "6"
-			(uuid "3dc51115-2c67-49ba-859a-f80447a5245a")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "JP15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:HEADER-1X1070MIL")
-		(at 330.2 161.29 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9ba77cd4-4af5-4ca3-a90c-0af8c4fc49a2")
-		(property "Reference" "JP10"
-			(at 316.865 154.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "HEADER-1X1070MIL"
-			(at 347.98 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit TMC2209 Stepper Motor Driver:1X10_ROUND70"
-			(at 330.2 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 330.2 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 330.2 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "94ab13f5-0780-460d-bb20-114fd006cefc")
-		)
-		(pin "8"
-			(uuid "46a8cd85-49b0-43d0-9ead-114c8aed3877")
-		)
-		(pin "1"
-			(uuid "be11ba25-fd8e-4cba-9674-67dfbb570568")
-		)
-		(pin "2"
-			(uuid "1c5b6f5b-20fa-4db9-a8d0-74413acb0dee")
-		)
-		(pin "3"
-			(uuid "383c7232-5076-4967-828c-72d5d683e615")
-		)
-		(pin "4"
-			(uuid "07ce5b8a-c34a-4d34-96a0-1bd2290816bf")
-		)
-		(pin "9"
-			(uuid "95f8e975-2387-40b9-8cc3-3d3f58c24700")
-		)
-		(pin "10"
-			(uuid "b3477c8f-c02a-4064-ba7e-3035706be794")
-		)
-		(pin "7"
-			(uuid "34618858-88e1-4f82-9460-99fe1946004d")
-		)
-		(pin "6"
-			(uuid "4a0cfbc9-f251-4c56-a4af-4bf81fcd4d3d")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "JP10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
 		(at 158.75 138.43 90)
 		(mirror x)
@@ -13054,85 +9692,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
-		(at 603.25 138.43 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "a39f022c-b9e0-4668-99a5-7f9d5f1340a5")
-		(property "Reference" "#U$035"
-			(at 603.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 602.234 136.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 603.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 603.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 603.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4d408f23-9e93-4b3d-880b-b8e6d1014ceb")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$035")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 364.49 27.94 0)
 		(unit 1)
@@ -13209,271 +9768,6 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:HEADER-1X1070MIL")
-		(at 552.45 161.29 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "aa3dd87f-1107-4b06-bd26-b6cbc27bbc5e")
-		(property "Reference" "JP17"
-			(at 539.115 154.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "HEADER-1X1070MIL"
-			(at 570.23 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit TMC2209 Stepper Motor Driver:1X10_ROUND70"
-			(at 552.45 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 552.45 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 552.45 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "454dcc61-1b49-4c83-a096-54733c627021")
-		)
-		(pin "8"
-			(uuid "a015c719-da51-415e-a389-65206ed92f99")
-		)
-		(pin "1"
-			(uuid "41c5b316-7560-49cb-8e28-fac4f790fabd")
-		)
-		(pin "2"
-			(uuid "205ca00a-d24f-43c9-8a84-f0e2aaf9d063")
-		)
-		(pin "3"
-			(uuid "190817bc-d43a-4274-bbbc-458b8480d583")
-		)
-		(pin "4"
-			(uuid "91ff990d-07ee-4c88-af70-5b42131d98ee")
-		)
-		(pin "9"
-			(uuid "496119d0-6a27-4442-9efd-33eaec7fabe9")
-		)
-		(pin "10"
-			(uuid "ae24bf0f-52d9-4ba0-a263-a61e4a007cdb")
-		)
-		(pin "7"
-			(uuid "6a9cab4e-c03d-4f14-b32c-17671596ef52")
-		)
-		(pin "6"
-			(uuid "57d904ae-4b63-4f39-bbbb-44fc02c0edf9")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "JP17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
-		(at 539.75 138.43 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ab39152f-3ccc-4527-b94c-150f0eff8df3")
-		(property "Reference" "#U$033"
-			(at 539.75 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 538.734 136.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 539.75 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 539.75 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 539.75 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c6d068dc-2cf0-47ba-9a8f-e4115e1e6d07")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
-		(at 476.25 138.43 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ab56becc-ac1c-4ea1-94bf-d99b91862587")
-		(property "Reference" "#U$031"
-			(at 476.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 475.234 136.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 476.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 476.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 476.25 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "03daa509-4be2-491e-909a-f6243817ad76")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$031")
 					(unit 1)
 				)
 			)
@@ -13821,271 +10115,6 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
-		(at 412.75 138.43 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c5a10536-e360-41b3-98f5-6a9dd6a503ef")
-		(property "Reference" "#U$029"
-			(at 412.75 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VDD"
-			(at 411.734 136.906 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 412.75 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 412.75 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 412.75 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4e1c97fc-9925-4165-9693-90dae4f03976")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$029")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 513.08 135.89 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d1a9e731-4271-47c2-8fd4-6f6ce2642920")
-		(property "Reference" "#U$013"
-			(at 513.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 511.556 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 513.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 513.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 513.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8012d1c9-71ec-4743-b4cb-a19624200f6d")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:HEADER-1X1070MIL")
-		(at 425.45 161.29 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d656d204-2c9e-49e3-9754-e02fc0763823")
-		(property "Reference" "JP13"
-			(at 412.115 154.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "HEADER-1X1070MIL"
-			(at 443.23 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit TMC2209 Stepper Motor Driver:1X10_ROUND70"
-			(at 425.45 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 425.45 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 425.45 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "8f2beb36-46ca-4566-9e7b-692c5ab08438")
-		)
-		(pin "8"
-			(uuid "66ac68d0-9fbc-4523-b78a-2a6ff8fd2c2f")
-		)
-		(pin "1"
-			(uuid "7fe0ec62-bd81-46b6-9299-04310b02d366")
-		)
-		(pin "2"
-			(uuid "7f43ee06-54f1-4d60-aa74-4eb29fc3399d")
-		)
-		(pin "3"
-			(uuid "90d950b9-d20b-4ace-90de-7a4a2031bb2c")
-		)
-		(pin "4"
-			(uuid "a70d8cc2-e1f2-457b-a373-c1ba342ea993")
-		)
-		(pin "9"
-			(uuid "619e693c-28f4-4559-8e01-aa146441aeb8")
-		)
-		(pin "10"
-			(uuid "87485a24-06e4-43ac-8235-e1a2b6c86756")
-		)
-		(pin "7"
-			(uuid "1c0d8e0c-1a4f-4e2c-bc38-cd3b024feae1")
-		)
-		(pin "6"
-			(uuid "2354dcd1-af35-4fc2-a6d7-c02a4daf0f40")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "JP13")
 					(unit 1)
 				)
 			)
@@ -14834,485 +10863,6 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:HEADER-1X1070MIL")
-		(at 361.95 161.29 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f683269f-a09e-4e4f-888f-5fe44d513231")
-		(property "Reference" "JP11"
-			(at 348.615 154.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "HEADER-1X1070MIL"
-			(at 379.73 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit TMC2209 Stepper Motor Driver:1X10_ROUND70"
-			(at 361.95 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 361.95 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 361.95 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "122ed68a-8211-41e9-a06f-ffdd8222a273")
-		)
-		(pin "8"
-			(uuid "107c1c55-7435-4e7e-8cc3-42c9b55b4089")
-		)
-		(pin "1"
-			(uuid "0a7d7520-dd74-4906-b2f5-41eeab7ea1b4")
-		)
-		(pin "2"
-			(uuid "068025d9-5dde-46d5-ada2-28997b062f66")
-		)
-		(pin "3"
-			(uuid "0fbc77e0-c269-455b-9005-3c985dc4da2c")
-		)
-		(pin "4"
-			(uuid "2d686c5c-8ba2-4609-a3ce-047fd99d57d6")
-		)
-		(pin "9"
-			(uuid "ae79bde3-3efd-40fa-82fc-8e3a3b32c082")
-		)
-		(pin "10"
-			(uuid "2c16834a-01a9-4924-9a80-384e243e5773")
-		)
-		(pin "7"
-			(uuid "e585128b-802b-4f22-bb0a-569d774ece05")
-		)
-		(pin "6"
-			(uuid "11435242-0948-4944-a1a0-908b5eaf30a3")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "JP11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 322.58 135.89 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f8489c55-8ae2-4f54-b44e-b2c8b03ec744")
-		(property "Reference" "#U$07"
-			(at 322.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 321.056 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 322.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 322.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 322.58 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d421ea79-d5f3-4b3d-92ad-31bf8c448cef")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 608.33 135.89 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "fb9cd92e-0bc7-41fc-b8b9-11f9c42c85a9")
-		(property "Reference" "#U$016"
-			(at 608.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 606.806 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 608.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 608.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 608.33 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6881fea8-075e-4d7b-ab49-8d2977e78b7c")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:HEADER-1X1070MIL")
-		(at 520.7 161.29 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "feebad5c-7c8e-4e00-9fe0-70cb073b5f9f")
-		(property "Reference" "JP16"
-			(at 507.365 154.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "HEADER-1X1070MIL"
-			(at 538.48 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit TMC2209 Stepper Motor Driver:1X10_ROUND70"
-			(at 520.7 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 520.7 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 520.7 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "0c24025f-8883-4b19-81b6-63889482a90a")
-		)
-		(pin "8"
-			(uuid "f9df5701-12b8-4950-a515-9da9e84c98e2")
-		)
-		(pin "1"
-			(uuid "2b32e5ed-525a-4b79-86e4-552a58b9578d")
-		)
-		(pin "2"
-			(uuid "90820a86-b817-4861-8ac0-f650a3965d69")
-		)
-		(pin "3"
-			(uuid "22223f46-e791-4f97-bf5e-cbdd09e77201")
-		)
-		(pin "4"
-			(uuid "de9a80b3-0f7e-4e8e-b4dd-791c0c040a07")
-		)
-		(pin "9"
-			(uuid "af90c304-5de2-41d6-95be-7bd9abcf11e5")
-		)
-		(pin "10"
-			(uuid "ea7a6abe-1cc8-4795-9488-44b1dc7d0fa2")
-		)
-		(pin "7"
-			(uuid "39f55440-6844-4bdc-b8aa-19c3ea0e0251")
-		)
-		(pin "6"
-			(uuid "37845a4c-95b3-4efb-a8bf-a10d74ca45ea")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "JP16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:HEADER-1X1070MIL")
-		(at 393.7 161.29 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ffc86fbe-ace0-4ede-bb24-39b7fadb6256")
-		(property "Reference" "JP12"
-			(at 380.365 154.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "HEADER-1X1070MIL"
-			(at 411.48 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit TMC2209 Stepper Motor Driver:1X10_ROUND70"
-			(at 393.7 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 393.7 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 393.7 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "a2393789-dd53-48fd-bf8c-03936a0374bb")
-		)
-		(pin "8"
-			(uuid "6e149c8c-6bcd-4947-baa1-c60ef921c032")
-		)
-		(pin "1"
-			(uuid "5d29e521-a674-420e-8601-18b33cb1e859")
-		)
-		(pin "2"
-			(uuid "4857bbe5-cf4b-4246-929a-2f7938d71166")
-		)
-		(pin "3"
-			(uuid "73e4b262-6751-415b-976a-4940fac948de")
-		)
-		(pin "4"
-			(uuid "d3cb7af9-08a8-4fcb-971b-decd62b14c5c")
-		)
-		(pin "9"
-			(uuid "9e6c1bf2-b6e6-4c65-a417-ce343a80b092")
-		)
-		(pin "10"
-			(uuid "b9b085ab-8041-4b12-89d4-726e1a85e23f")
-		)
-		(pin "7"
-			(uuid "fbedfae3-a736-4c52-9e23-19db42d49aa3")
-		)
-		(pin "6"
-			(uuid "3235a7b8-9477-446e-89b8-4038829bcec4")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "JP12")
 					(unit 1)
 				)
 			)
