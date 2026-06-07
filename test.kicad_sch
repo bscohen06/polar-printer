@@ -7163,6 +7163,16 @@
 		)
 		(uuid "51bc2086-452b-4256-abbb-e6c01a4ae208")
 	)
+	(label "Z_STEP"
+		(at 200.66 166.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "51d7b620-424e-4b58-98dc-6e4c825e04b9")
+	)
 	(label "ENABLE"
 		(at 596.9 138.43 270)
 		(effects
@@ -7962,6 +7972,16 @@
 			(justify right bottom)
 		)
 		(uuid "ca982c54-c486-4e68-bb2a-3e3ee283f69e")
+	)
+	(label "R_STEP_2"
+		(at 167.64 166.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cbfbe6f5-b9e8-4619-9483-6e73d682c960")
 	)
 	(label "UART"
 		(at 213.36 138.43 270)
@@ -9131,7 +9151,7 @@
 	)
 	(symbol
 		(lib_id "254:254")
-		(at 66.04 152.4 0)
+		(at 69.85 151.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9142,7 +9162,7 @@
 		(fields_autoplaced yes)
 		(uuid "14d89262-2a16-459e-9f07-87d253651e12")
 		(property "Reference" "U6"
-			(at 66.04 134.62 0)
+			(at 69.85 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9152,7 +9172,7 @@
 			)
 		)
 		(property "Value" "254"
-			(at 66.04 137.16 0)
+			(at 69.85 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9162,7 +9182,7 @@
 			)
 		)
 		(property "Footprint" "254:MODULE_254"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9174,7 +9194,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9185,7 +9205,7 @@
 			)
 		)
 		(property "Description" "MicroSD card breakout board+ | Adafruit Industries 254"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9197,7 +9217,7 @@
 			)
 		)
 		(property "MF" "Adafruit"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9209,7 +9229,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "3.75 mm"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9221,7 +9241,7 @@
 			)
 		)
 		(property "Package" "NON STANDARD Adafruit"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9233,7 +9253,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9245,7 +9265,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/254/Adafruit+Industries/view-part/?ref=eda"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9257,7 +9277,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9269,7 +9289,7 @@
 			)
 		)
 		(property "PARTREV" "Jul 31, 2013"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9281,7 +9301,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/254/Adafruit+Industries/view-part/?ref=snap"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9293,7 +9313,7 @@
 			)
 		)
 		(property "MP" "254"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9305,7 +9325,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4653161&manufacturer=Adafruit&part_name=254&search_term=None"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9317,7 +9337,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9329,7 +9349,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Adafruit Industries"
-			(at 66.04 152.4 0)
+			(at 69.85 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9545,6 +9565,7 @@
 		(uuid "25ba826b-4e7e-4da6-a617-b9110a2c647f")
 		(property "Reference" "JP4"
 			(at 126.365 154.94 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10143,6 +10164,7 @@
 		(uuid "47f307a3-4118-4340-92e1-4b5480c7c3d7")
 		(property "Reference" "JP7"
 			(at 221.615 154.94 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12778,6 +12800,7 @@
 		(uuid "9d6d2518-b142-4112-ad41-6a7335017ae5")
 		(property "Reference" "JP6"
 			(at 189.865 154.94 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14159,6 +14182,7 @@
 		(uuid "e0f09187-7d11-471d-8b71-35cf83bfa55d")
 		(property "Reference" "JP5"
 			(at 158.115 154.94 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
