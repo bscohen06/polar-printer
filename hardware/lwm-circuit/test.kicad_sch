@@ -8,6 +8,375 @@
 		(date "sam. 04 avril 2015")
 	)
 	(lib_symbols
+		(symbol "254:254"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at -7.62 13.462 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "254"
+				(at -7.62 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "254:MODULE_254"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "MicroSD card breakout board+ | Adafruit Industries 254"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Adafruit"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "3.75 mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "NON STANDARD Adafruit"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/254/Adafruit+Industries/view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PARTREV" "Jul 31, 2013"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/254/Adafruit+Industries/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "254"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4653161&manufacturer=Adafruit&part_name=254&search_term=None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "Adafruit Industries"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "254_0_0"
+				(rectangle
+					(start -7.62 -12.7)
+					(end 7.62 12.7)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin bidirectional line
+					(at -12.7 -7.62 0)
+					(length 5.08)
+					(name "CD"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.7 5.08 0)
+					(length 5.08)
+					(name "CS"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.7 0 0)
+					(length 5.08)
+					(name "DI"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -12.7 -2.54 0)
+					(length 5.08)
+					(name "DO"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input clock
+					(at -12.7 2.54 0)
+					(length 5.08)
+					(name "CLK"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 12.7 -10.16 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 12.7 10.16 180)
+					(length 5.08)
+					(name "3V"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 12.7 7.62 180)
+					(length 5.08)
+					(name "5V"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND"
 			(power global)
 			(exclude_from_sim no)
@@ -528,6 +897,405 @@
 						(effects
 							(font
 								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector:Micro_SD_Card_Det_Hirose_DM3AT"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at -16.51 17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Micro_SD_Card_Det_Hirose_DM3AT"
+				(at 16.51 17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" ""
+				(at 52.07 17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Micro SD Card Socket with card detection pins"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector SD microsd"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "microSD*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Micro_SD_Card_Det_Hirose_DM3AT_0_1"
+				(polyline
+					(pts
+						(xy -8.89 -8.89) (xy -8.89 11.43) (xy -1.27 11.43) (xy 2.54 15.24) (xy 3.81 15.24) (xy 3.81 13.97)
+						(xy 6.35 13.97) (xy 7.62 15.24) (xy 20.32 15.24) (xy 20.32 -8.89) (xy -8.89 -8.89)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -7.62 10.795)
+					(end -5.08 9.525)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -7.62 8.255)
+					(end -5.08 6.985)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -7.62 5.715)
+					(end -5.08 4.445)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -7.62 3.175)
+					(end -5.08 1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -7.62 0.635)
+					(end -5.08 -0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -7.62 -1.905)
+					(end -5.08 -3.175)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -7.62 -4.445)
+					(end -5.08 -5.715)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -7.62 -6.985)
+					(end -5.08 -8.255)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 16.51 15.24) (xy 16.51 16.51) (xy -19.05 16.51) (xy -19.05 -16.51) (xy 16.51 -16.51) (xy 16.51 -8.89)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Micro_SD_Card_Det_Hirose_DM3AT_1_1"
+				(pin bidirectional line
+					(at -22.86 10.16 0)
+					(length 3.81)
+					(name "DAT2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -22.86 7.62 0)
+					(length 3.81)
+					(name "DAT3/CD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -22.86 5.08 0)
+					(length 3.81)
+					(name "CMD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -22.86 2.54 0)
+					(length 3.81)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -22.86 0 0)
+					(length 3.81)
+					(name "CLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -22.86 -2.54 0)
+					(length 3.81)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -22.86 -5.08 0)
+					(length 3.81)
+					(name "DAT0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -22.86 -7.62 0)
+					(length 3.81)
+					(name "DAT1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -22.86 -12.7 0)
+					(length 3.81)
+					(name "DET_B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -22.86 -10.16 0)
+					(length 3.81)
+					(name "DET_A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 -12.7 180)
+					(length 3.81)
+					(name "SHIELD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "SH"
+						(effects
+							(font
+								(size 1.27 1.27)
 							)
 						)
 					)
@@ -2452,16 +3220,22 @@
 		(uuid "588de3c2-701d-4a9a-9a89-e1572553c8f0")
 	)
 	(junction
-		(at 127 21.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "59aa658c-4e84-445b-8a07-3e7508073b69")
-	)
-	(junction
 		(at 434.34 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5daf1715-83d7-4974-b7aa-d41ca8386902")
+	)
+	(junction
+		(at 137.16 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6aa11f57-35ff-46aa-8e3d-d2e0d0d24112")
+	)
+	(junction
+		(at 127 21.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7973a94f-704b-4557-baa0-45745bd63b35")
 	)
 	(junction
 		(at 43.18 30.48)
@@ -2480,6 +3254,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9bfb30fd-3aa1-45e8-a776-560d5bed5f47")
+	)
+	(junction
+		(at 135.89 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9c7f4582-9fff-40d9-9b7b-45a01d071434")
 	)
 	(junction
 		(at 431.8 21.59)
@@ -2578,12 +3358,6 @@
 		(uuid "ef2a3b14-5c7d-425c-9173-5101ee964f40")
 	)
 	(junction
-		(at 135.89 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f893acd4-38f7-4591-92c7-6dc45a4c39c6")
-	)
-	(junction
 		(at 149.86 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2658,6 +3432,16 @@
 			(type solid)
 		)
 		(uuid "0558f935-df59-4e68-afca-66d54338cbf8")
+	)
+	(wire
+		(pts
+			(xy 162.56 48.26) (xy 171.45 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05a25fe3-60b4-42b0-968a-cc2dc4fd0268")
 	)
 	(wire
 		(pts
@@ -2831,16 +3615,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 83.82) (xy 165.1 35.56)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "18e4cc9b-2181-47d3-8efc-d02b6f1dd4a4")
-	)
-	(wire
-		(pts
 			(xy 203.2 31.75) (xy 203.2 35.56)
 		)
 		(stroke
@@ -2861,16 +3635,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 87.63) (xy 168.91 43.18)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "19f86c79-0355-4df3-bf13-ef0ba11fe841")
-	)
-	(wire
-		(pts
 			(xy 207.01 102.87) (xy 278.13 102.87)
 		)
 		(stroke
@@ -2888,6 +3652,16 @@
 			(type default)
 		)
 		(uuid "1a7859eb-ab5f-4ad3-b0df-38cc0b746490")
+	)
+	(wire
+		(pts
+			(xy 41.91 110.49) (xy 50.8 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1abdbbc0-1778-42f7-b422-b009fce87021")
 	)
 	(wire
 		(pts
@@ -2931,6 +3705,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 105.41) (xy 50.8 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e92d148-b43c-48f5-bd7f-56d18ed36321")
+	)
+	(wire
+		(pts
 			(xy 288.29 20.32) (xy 288.29 24.13)
 		)
 		(stroke
@@ -2951,7 +3735,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 20.32) (xy 135.89 20.32)
+			(xy 24.13 20.32) (xy 135.89 20.32)
 		)
 		(stroke
 			(width 0)
@@ -3018,16 +3802,6 @@
 			(type solid)
 		)
 		(uuid "23ab50ef-aa08-4441-999b-113848c3ada9")
-	)
-	(wire
-		(pts
-			(xy 139.7 85.09) (xy 139.7 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "23aec753-92b3-4968-81cb-0c913ad0538f")
 	)
 	(wire
 		(pts
@@ -3111,6 +3885,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 45.72) (xy 162.56 45.72)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2a466d45-ad6f-4d30-b8a5-551be108ee72")
+	)
+	(wire
+		(pts
 			(xy 237.49 158.75) (xy 237.49 138.43)
 		)
 		(stroke
@@ -3138,16 +3922,6 @@
 			(type solid)
 		)
 		(uuid "2d0cc11e-d2a0-4c4b-a915-dfd74b5a1dc9")
-	)
-	(wire
-		(pts
-			(xy 137.16 83.82) (xy 137.16 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2d64004c-9832-4c86-a991-fb03a80260e6")
 	)
 	(wire
 		(pts
@@ -3271,16 +4045,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 81.28) (xy 134.62 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "376737e9-f0ab-4fae-ad9e-3ab4fcb6cbf4")
-	)
-	(wire
-		(pts
 			(xy 560.07 158.75) (xy 560.07 138.43)
 		)
 		(stroke
@@ -3391,6 +4155,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 138.43) (xy 142.24 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e84a663-52aa-489f-bff6-0b5122f1a54e")
+	)
+	(wire
+		(pts
 			(xy 501.65 158.75) (xy 501.65 138.43)
 		)
 		(stroke
@@ -3448,16 +4222,6 @@
 			(type solid)
 		)
 		(uuid "41c9b044-d168-4006-9df6-19996acd659f")
-	)
-	(wire
-		(pts
-			(xy 134.62 81.28) (xy 163.83 81.28)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "426e0236-2e0d-4bf6-b74d-4b54bc2f2c34")
 	)
 	(wire
 		(pts
@@ -3528,16 +4292,6 @@
 			(type default)
 		)
 		(uuid "470995ec-76ef-4bf4-9ad6-174c4518d6f0")
-	)
-	(wire
-		(pts
-			(xy 166.37 85.09) (xy 166.37 38.1)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "474ff1ec-bea2-4614-bcc9-28b6c980e8c2")
 	)
 	(wire
 		(pts
@@ -3638,6 +4392,16 @@
 			(type solid)
 		)
 		(uuid "4fb267d7-3dc7-4082-922d-493df8155e61")
+	)
+	(wire
+		(pts
+			(xy 134.62 138.43) (xy 134.62 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50fc1e2d-ab14-48f4-a203-1d39dc612658")
 	)
 	(wire
 		(pts
@@ -3751,16 +4515,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 83.82) (xy 165.1 83.82)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "5a22c2d5-db01-410c-8431-0b436700b340")
-	)
-	(wire
-		(pts
 			(xy 149.86 17.78) (xy 226.06 17.78)
 		)
 		(stroke
@@ -3871,6 +4625,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 138.43) (xy 129.54 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fa4a878-b153-418e-934a-e6bd8a8e6974")
+	)
+	(wire
+		(pts
 			(xy 327.66 158.75) (xy 327.66 138.43)
 		)
 		(stroke
@@ -3898,16 +4662,6 @@
 			(type solid)
 		)
 		(uuid "625ff18d-6c34-4bb9-bf9a-61854db8852e")
-	)
-	(wire
-		(pts
-			(xy 163.83 81.28) (xy 163.83 33.02)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "62e72cd1-84eb-49ad-81de-70d233a5aeeb")
 	)
 	(wire
 		(pts
@@ -4081,16 +4835,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 85.09) (xy 166.37 85.09)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "7377ab24-9ecf-4c9f-b8d8-973a9104b1e3")
-	)
-	(wire
-		(pts
 			(xy 289.56 33.02) (xy 288.29 33.02)
 		)
 		(stroke
@@ -4098,16 +4842,6 @@
 			(type default)
 		)
 		(uuid "746e4ba2-ae11-4856-8991-1ae64128da99")
-	)
-	(wire
-		(pts
-			(xy 142.24 86.36) (xy 167.64 86.36)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "74d2797f-64c3-495b-9556-9491a89a3600")
 	)
 	(wire
 		(pts
@@ -4128,16 +4862,6 @@
 			(type solid)
 		)
 		(uuid "7604b19b-df9e-4476-8cd6-2a06f4526228")
-	)
-	(wire
-		(pts
-			(xy 129.54 158.75) (xy 129.54 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "764c5958-c0da-4ba4-92b9-d638372110d1")
 	)
 	(wire
 		(pts
@@ -4271,7 +4995,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 52.07) (xy 48.26 52.07)
+			(xy 24.13 52.07) (xy 48.26 52.07)
 		)
 		(stroke
 			(width 0)
@@ -4298,6 +5022,16 @@
 			(type solid)
 		)
 		(uuid "7f98c0dd-5319-4459-bdf6-7621812728e3")
+	)
+	(wire
+		(pts
+			(xy 163.83 138.43) (xy 163.83 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fabd523-3b6a-4e12-8de6-23335455e15a")
 	)
 	(wire
 		(pts
@@ -4401,6 +5135,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 58.42) (xy 175.26 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84777f72-fc43-44e3-8982-b9a4fbc9a159")
+	)
+	(wire
+		(pts
 			(xy 135.89 24.13) (xy 135.89 20.32)
 		)
 		(stroke
@@ -4428,6 +5172,16 @@
 			(type solid)
 		)
 		(uuid "87c03c79-f760-4156-8a7d-3bb211291c56")
+	)
+	(wire
+		(pts
+			(xy 139.7 125.73) (xy 139.7 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87cf978e-8daf-4034-887e-32ae41c29980")
 	)
 	(wire
 		(pts
@@ -4508,16 +5262,6 @@
 			(type default)
 		)
 		(uuid "8cdb07f4-b95d-4454-9bf3-d380e44b1665")
-	)
-	(wire
-		(pts
-			(xy 152.4 87.63) (xy 152.4 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "8de64bc1-548f-43e9-a393-c4480ba6ca32")
 	)
 	(wire
 		(pts
@@ -4781,16 +5525,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 87.63) (xy 168.91 87.63)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "9e080366-82f5-4aed-b9e2-a5858cb8ddb6")
-	)
-	(wire
-		(pts
 			(xy 285.75 82.55) (xy 302.26 82.55)
 		)
 		(stroke
@@ -4801,23 +5535,13 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 21.59) (xy 127 21.59)
+			(xy 25.4 21.59) (xy 127 21.59)
 		)
 		(stroke
 			(width 0)
 			(type solid)
 		)
 		(uuid "9e5fb7df-4907-44ab-98be-e391cd93bef0")
-	)
-	(wire
-		(pts
-			(xy 167.64 86.36) (xy 167.64 40.64)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a08b8647-694d-4b23-8843-c29af0088289")
 	)
 	(wire
 		(pts
@@ -5001,6 +5725,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 138.43) (xy 152.4 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af9e4db4-31ed-4803-9d8a-18174c9d374b")
+	)
+	(wire
+		(pts
 			(xy 226.06 17.78) (xy 302.26 17.78)
 		)
 		(stroke
@@ -5028,16 +5762,6 @@
 			(type solid)
 		)
 		(uuid "b27fafed-10d4-4d57-9344-fab46a8e250e")
-	)
-	(wire
-		(pts
-			(xy 142.24 86.36) (xy 142.24 158.75)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "b30e1170-17bb-4532-b18c-63cfeaa740a5")
 	)
 	(wire
 		(pts
@@ -5321,6 +6045,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 55.88) (xy 173.99 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca0a53ea-9252-496d-aecc-1d7d0d006672")
+	)
+	(wire
+		(pts
 			(xy 438.15 158.75) (xy 438.15 138.43)
 		)
 		(stroke
@@ -5381,7 +6115,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 49.53) (xy 48.26 49.53)
+			(xy 25.4 49.53) (xy 48.26 49.53)
 		)
 		(stroke
 			(width 0)
@@ -5411,13 +6145,13 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 158.75) (xy 163.83 138.43)
+			(xy 137.16 125.73) (xy 137.16 158.75)
 		)
 		(stroke
-			(width 0.1524)
-			(type solid)
+			(width 0)
+			(type default)
 		)
-		(uuid "cfcfd8f5-7074-4d71-b97f-e3ea87d18987")
+		(uuid "cfec31f7-b032-497e-893c-e4c32e737694")
 	)
 	(wire
 		(pts
@@ -5601,6 +6335,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 125.73) (xy 137.16 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e08178d7-8eff-4083-ae76-2cfd6cccc9bb")
+	)
+	(wire
+		(pts
 			(xy 322.58 158.75) (xy 322.58 138.43)
 		)
 		(stroke
@@ -5771,7 +6515,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 52.07) (xy 17.78 20.32)
+			(xy 24.13 52.07) (xy 24.13 20.32)
 		)
 		(stroke
 			(width 0)
@@ -5788,6 +6532,16 @@
 			(type solid)
 		)
 		(uuid "eedf2262-61cc-4e02-ad89-f18abede3775")
+	)
+	(wire
+		(pts
+			(xy 162.56 50.8) (xy 172.72 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef266eb5-9466-4c39-8c3d-f56cbbed2fee")
 	)
 	(wire
 		(pts
@@ -5881,7 +6635,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 49.53) (xy 19.05 21.59)
+			(xy 25.4 49.53) (xy 25.4 21.59)
 		)
 		(stroke
 			(width 0)
@@ -6409,6 +7163,16 @@
 		)
 		(uuid "51bc2086-452b-4256-abbb-e6c01a4ae208")
 	)
+	(label "Z_STEP_MOt"
+		(at 200.66 166.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "51d7b620-424e-4b58-98dc-6e4c825e04b9")
+	)
 	(label "ENABLE"
 		(at 596.9 138.43 270)
 		(effects
@@ -6819,6 +7583,16 @@
 		)
 		(uuid "93e58224-5896-4e20-bec4-310b36e5514d")
 	)
+	(label "R_STEP_1"
+		(at 135.89 166.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "93fc1e6a-4e01-42dd-a2a5-41faeeaadd01")
+	)
 	(label "DIR"
 		(at 610.87 138.43 270)
 		(effects
@@ -7199,6 +7973,16 @@
 		)
 		(uuid "ca982c54-c486-4e68-bb2a-3e3ee283f69e")
 	)
+	(label "R_STEP_2"
+		(at 167.64 166.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cbfbe6f5-b9e8-4619-9483-6e73d682c960")
+	)
 	(label "UART"
 		(at 213.36 138.43 270)
 		(effects
@@ -7498,6 +8282,102 @@
 			(justify right bottom)
 		)
 		(uuid "fe64e959-975e-4f68-8db8-93471c563c3f")
+	)
+	(global_label "CS"
+		(shape input)
+		(at 50.8 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5b65b8a9-e6b0-4cee-940a-7f343b7565ab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 45.2402 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "MOSI"
+		(shape input)
+		(at 83.82 41.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8bc36855-0750-459f-b269-427e9ea997d7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.4965 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "MOSI"
+		(shape input)
+		(at 50.8 102.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a67d86f1-2c6f-4bc5-84e2-64920f224685")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.1235 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SCLK"
+		(shape input)
+		(at 50.8 107.95 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bc38ff57-8565-4cc1-80e2-85c4eb775ccf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.9421 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x15")
@@ -7845,8 +8725,8 @@
 	)
 	(symbol
 		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
-		(at 127 138.43 90)
-		(mirror x)
+		(at 129.54 135.89 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7856,7 +8736,7 @@
 		(dnp no)
 		(uuid "05729b4b-cd70-47b1-9a8a-461acf169f78")
 		(property "Reference" "#U$020"
-			(at 127 138.43 0)
+			(at 129.54 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7867,7 +8747,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 125.984 136.906 0)
+			(at 131.064 134.874 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7878,7 +8758,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 138.43 0)
+			(at 129.54 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7889,7 +8769,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 138.43 0)
+			(at 129.54 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7900,7 +8780,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 127 138.43 0)
+			(at 129.54 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8270,6 +9150,250 @@
 		)
 	)
 	(symbol
+		(lib_id "254:254")
+		(at 69.85 151.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "14d89262-2a16-459e-9f07-87d253651e12")
+		(property "Reference" "U6"
+			(at 69.85 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "254"
+			(at 69.85 135.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "254:MODULE_254"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MicroSD card breakout board+ | Adafruit Industries 254"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Adafruit"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "3.75 mm"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "NON STANDARD Adafruit"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/254/Adafruit+Industries/view-part/?ref=eda"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "Jul 31, 2013"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/254/Adafruit+Industries/view-part/?ref=snap"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "254"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4653161&manufacturer=Adafruit&part_name=254&search_term=None"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Adafruit Industries"
+			(at 69.85 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "2"
+			(uuid "dc942a19-22b9-4c2f-aa9b-d46c4a5d270b")
+		)
+		(pin "4"
+			(uuid "4a56b392-3d1c-4ed6-abf3-1082a390d2a4")
+		)
+		(pin "3"
+			(uuid "da2de9c1-d2e4-417e-8784-78db0d71aaef")
+		)
+		(pin "6"
+			(uuid "3e80adab-d6e4-45cc-bdf3-dc1d32ef7548")
+		)
+		(pin "8"
+			(uuid "7625be02-676f-4483-98f6-2adda89793de")
+		)
+		(pin "5"
+			(uuid "f1ffcad7-2231-497d-9b7d-6045c9ad707a")
+		)
+		(pin "7"
+			(uuid "665a54a5-3dc0-4aee-89ed-a8cb01ac375c")
+		)
+		(pin "1"
+			(uuid "2882855a-d869-424f-93e5-5cab642bf07e")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:VDD")
 		(at 508 138.43 90)
 		(mirror x)
@@ -8441,6 +9565,7 @@
 		(uuid "25ba826b-4e7e-4da6-a617-b9110a2c647f")
 		(property "Reference" "JP4"
 			(at 126.365 154.94 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9039,6 +10164,7 @@
 		(uuid "47f307a3-4118-4340-92e1-4b5480c7c3d7")
 		(property "Reference" "JP7"
 			(at 221.615 154.94 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9206,6 +10332,112 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "#U$027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Micro_SD_Card_Det_Hirose_DM3AT")
+		(at 73.66 107.95 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "56078cbe-5b39-4e9e-984f-e292e5f5177b")
+		(property "Reference" "J4"
+			(at 74.295 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Micro_SD_Card_Det_Hirose_DM3AT"
+			(at 73.152 126.238 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1"
+			(at 73.66 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Micro SD Card Socket with card detection pins"
+			(at 73.66 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "9"
+			(uuid "99d366f8-70aa-4f8f-924f-1aad35e73772")
+		)
+		(pin "7"
+			(uuid "5a7d0aa3-2435-4f5d-a0d5-6138ec5d23f1")
+		)
+		(pin "6"
+			(uuid "d49c6ad7-c683-4f71-b56d-947ae3d2d31f")
+		)
+		(pin "1"
+			(uuid "5e41c5d2-c5b1-4738-9c5d-0b269437c764")
+		)
+		(pin "3"
+			(uuid "cc290dd7-1148-4b21-b3f4-559ccfdc27ba")
+		)
+		(pin "10"
+			(uuid "aa5d029e-5aa1-43c2-95d2-b4425dc08912")
+		)
+		(pin "5"
+			(uuid "726f4a83-c054-4c8c-bf6c-7a89d8454f81")
+		)
+		(pin "8"
+			(uuid "f46a15c8-473c-41ff-8733-9336161889eb")
+		)
+		(pin "SH"
+			(uuid "ead8ec3e-58b2-4d9a-b34d-f66985d426f1")
+		)
+		(pin "2"
+			(uuid "cd121a57-009c-4607-808c-766960a98c85")
+		)
+		(pin "4"
+			(uuid "064f29fe-9ec2-4516-8e4e-223d0f82cd22")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -10865,6 +12097,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 137.16 125.73 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8c53bbed-621d-41ef-910c-4d1dc8870891")
+		(property "Reference" "#PWR0107"
+			(at 137.16 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 137.16 121.92 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 137.16 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "416cb39f-25b1-48a4-aea4-51bc0cd2c01d")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 212.09 27.94 0)
 		(unit 1)
@@ -10947,6 +12256,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 41.91 110.49 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "90301c1e-2046-4191-a8ab-1723e2da7e85")
+		(property "Reference" "#PWR0106"
+			(at 35.56 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 38.1 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 41.91 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 41.91 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4db13bdb-6bc0-4b03-9752-818b4a7daa96")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR0106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 355.6 27.94 0)
 		(unit 1)
@@ -11023,85 +12409,6 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 132.08 135.89 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "94597ab2-16b0-4dff-a0bd-35e895e9badd")
-		(property "Reference" "#U$01"
-			(at 132.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 130.556 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 132.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 132.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 132.08 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "40a40bdd-774e-4770-9ef4-b5df5331dd41")
-		)
-		(instances
-			(project "test"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$01")
 					(unit 1)
 				)
 			)
@@ -11493,6 +12800,7 @@
 		(uuid "9d6d2518-b142-4112-ad41-6a7335017ae5")
 		(property "Reference" "JP6"
 			(at 189.865 154.94 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12874,6 +14182,7 @@
 		(uuid "e0f09187-7d11-471d-8b71-35cf83bfa55d")
 		(property "Reference" "JP5"
 			(at 158.115 154.94 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13370,9 +14679,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:GND")
-		(at 163.83 135.89 0)
-		(mirror x)
+		(lib_id "power:+5V")
+		(at 41.91 105.41 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13380,9 +14688,10 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "f44c952c-25e3-4840-b159-3b94f89a8bfe")
-		(property "Reference" "#U$02"
-			(at 163.83 135.89 0)
+		(fields_autoplaced yes)
+		(uuid "eb85aea6-ab1b-4ad3-9af4-36239e41d0c7")
+		(property "Reference" "#PWR01"
+			(at 45.72 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13392,19 +14701,19 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 162.306 133.35 0)
+		(property "Value" "+5V"
+			(at 38.1 105.4099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.0795)
+					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 135.89 0)
+			(at 41.91 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13415,7 +14724,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 135.89 0)
+			(at 41.91 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13425,8 +14734,8 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 163.83 135.89 0)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 41.91 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13437,12 +14746,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "48eb994b-647b-47aa-8300-f503d035c989")
+			(uuid "3c88cad3-8cca-4b0b-b93b-f90904edc8cd")
 		)
 		(instances
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "#U$02")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
