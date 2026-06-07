@@ -2496,6 +2496,201 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Ultrasonic Sensor HC-SR04:HC-SR04"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J_ULTRASONIC_"
+				(at -7.62 10.922 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at -7.62 -12.954 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "Ultrasonic Sensor HC-SR04:HC-SR04_FOOTPRINT"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Ultrasonic Sensor HC-SR04"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "HC-SR04_1_0"
+				(polyline
+					(pts
+						(xy -7.62 10.16) (xy -7.62 -10.16)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -7.62 -10.16) (xy 2.54 -10.16)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 10.16) (xy -7.62 10.16)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -10.16) (xy 2.54 10.16)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin bidirectional line
+					(at -12.7 2.54 0)
+					(length 5.08)
+					(name "ECHO"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "ECHO"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -12.7 7.62 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "GND"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -12.7 -2.54 0)
+					(length 5.08)
+					(name "TRIG"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "TRIG"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -12.7 -7.62 0)
+					(length 5.08)
+					(name "5V"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "VCC"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+3.3V"
 			(power global)
 			(pin_numbers
@@ -3007,6 +3202,145 @@
 				)
 			)
 			(symbol "VCC_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:VDD"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "VDD"
+				(at 0 3.556 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"VDD\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "VDD_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VDD_1_1"
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
@@ -7605,6 +7939,54 @@
 			)
 		)
 	)
+	(global_label "u4-echo"
+		(shape input)
+		(at 203.2 240.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "175fafea-0136-4f94-9143-3c6238f180c5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.2 229.7531 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "u5-echo"
+		(shape input)
+		(at 223.52 240.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "17abf1fd-605f-4afa-8c2c-eb3063025db8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 223.52 229.7531 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "R_1_DIAG"
 		(shape output)
 		(at 144.78 137.16 90)
@@ -7786,6 +8168,30 @@
 		(uuid "3c60e488-bbee-40c5-adc5-a59f6f759be9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 247.65 128.5765 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "u3-trig"
+		(shape input)
+		(at 177.8 240.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3cd503d0-d158-4bba-9ade-a7c216c45e4d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.8 229.7531 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8085,6 +8491,30 @@
 			)
 		)
 	)
+	(global_label "u1-echo"
+		(shape input)
+		(at 142.24 240.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5ba11057-c82d-4e2b-84fe-7d8bd0237604")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 142.24 229.7531 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "Z_ST"
 		(shape input)
 		(at 200.66 138.43 90)
@@ -8098,6 +8528,30 @@
 		(uuid "601767a5-60b7-4e32-8003-49b383007da4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 200.66 130.9955 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "u5-trig"
+		(shape input)
+		(at 218.44 240.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "60db7d2e-f91a-4cdd-9238-5e495fcd69d6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 218.44 229.7531 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8493,6 +8947,54 @@
 			)
 		)
 	)
+	(global_label "u1-trig"
+		(shape input)
+		(at 137.16 240.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b3007115-3ef3-4181-9de0-596df4edfcb8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 137.16 229.7531 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "u4-trig"
+		(shape input)
+		(at 198.12 240.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b4cbafb0-f09f-4567-9d1e-ab1d669a088c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 198.12 229.7531 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "R_3_DIAG"
 		(shape output)
 		(at 144.78 186.69 90)
@@ -8541,6 +9043,30 @@
 			)
 		)
 	)
+	(global_label "u3-echo"
+		(shape input)
+		(at 182.88 240.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bcb517d9-c30f-4c9c-8594-cea7ce74ce74")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.88 229.7531 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "Z_UART"
 		(shape input)
 		(at 213.36 138.43 90)
@@ -8578,6 +9104,54 @@
 		(uuid "c4511900-0521-4758-a620-c026874e0ede")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 279.4 128.5765 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "u2-echo"
+		(shape input)
+		(at 162.56 240.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4ae7c70-8153-448f-b12b-3ea0caabca9b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.56 229.7531 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "u2-trig"
+		(shape input)
+		(at 157.48 240.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c610e958-c76b-454c-b55e-ba0b82420223")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 157.48 229.7531 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9200,6 +9774,171 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VDD")
+		(at 172.72 240.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "09a55e9f-4665-4b18-a2bb-284e3da7cacf")
+		(property "Reference" "#PWR014"
+			(at 172.72 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VDD"
+			(at 172.72 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 172.72 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 172.72 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "34c964fe-6699-4873-ab7a-16ce38087a11")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Ultrasonic Sensor HC-SR04:HC-SR04")
+		(at 200.66 252.73 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0b9dda5a-042d-46e5-918c-32c09aac13dd")
+		(property "Reference" "J_ULTRASONIC_4"
+			(at 190.246 257.302 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ""
+			(at 187.706 245.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Ultrasonic Sensor HC-SR04:HC-SR04_FOOTPRINT"
+			(at 200.66 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ultrasonic Sensor HC-SR04"
+			(at 200.66 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "TRIG"
+			(uuid "ee4ea1eb-fd37-4ed2-939a-f67cc4d97421")
+		)
+		(pin "VCC"
+			(uuid "69ccbff3-372d-42be-8e46-0eddb9da6fd6")
+		)
+		(pin "GND"
+			(uuid "c6c42421-bf85-47d1-a0a3-dabf2a594385")
+		)
+		(pin "ECHO"
+			(uuid "53a12b30-d987-4630-b17e-58be70813f45")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "J_ULTRASONIC_4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 135.89 27.94 0)
 		(unit 1)
@@ -9276,6 +10015,84 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 208.28 240.03 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1497ad05-24de-422a-971a-39df3c679bfa")
+		(property "Reference" "#PWR020"
+			(at 208.28 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 208.28 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 208.28 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8a78cd7e-39e0-4d27-8869-32cfb80c691b")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -9598,6 +10415,93 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Ultrasonic Sensor HC-SR04:HC-SR04")
+		(at 160.02 252.73 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "20b41954-200c-4a3c-be93-847af5a85442")
+		(property "Reference" "J_ULTRASONIC_2"
+			(at 149.606 257.302 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ""
+			(at 147.066 245.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Ultrasonic Sensor HC-SR04:HC-SR04_FOOTPRINT"
+			(at 160.02 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ultrasonic Sensor HC-SR04"
+			(at 160.02 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "TRIG"
+			(uuid "873eedd0-1e4d-48fe-ae89-5867a7c5a52b")
+		)
+		(pin "VCC"
+			(uuid "cc38103b-00df-4205-9104-ca972bf8f429")
+		)
+		(pin "GND"
+			(uuid "351fbb84-2eda-4227-8fd7-e52a7e07bf73")
+		)
+		(pin "ECHO"
+			(uuid "ec662510-f063-4591-9d5c-7620a36c5d91")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "J_ULTRASONIC_2")
 					(unit 1)
 				)
 			)
@@ -10495,6 +11399,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 147.32 240.03 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3fb4559a-712f-4a5a-b093-f217417ea81e")
+		(property "Reference" "#PWR017"
+			(at 147.32 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 147.32 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 147.32 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 147.32 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cc143faf-0066-45ed-8dd5-64710a48e503")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 440.69 27.94 0)
 		(unit 1)
@@ -10956,6 +11938,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VDD")
+		(at 193.04 240.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "581ab9e3-2ad1-4dd2-be9b-4145b5efb775")
+		(property "Reference" "#PWR015"
+			(at 193.04 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VDD"
+			(at 193.04 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 193.04 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "067b303a-6f4a-48b3-9a71-eb97cc4b8187")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 288.29 27.94 0)
 		(unit 1)
@@ -11032,6 +12092,84 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VDD")
+		(at 152.4 240.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b77cd09-8f05-4d07-b87b-1c6bb7418bd5")
+		(property "Reference" "#PWR013"
+			(at 152.4 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VDD"
+			(at 152.4 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 152.4 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f2b7ba95-7971-4771-ba33-0cea2f606ac9")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -11273,6 +12411,93 @@
 		)
 	)
 	(symbol
+		(lib_id "Ultrasonic Sensor HC-SR04:HC-SR04")
+		(at 139.7 252.73 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "72da3e7e-1c98-49b5-984b-d4c48135ac6d")
+		(property "Reference" "J_ULTRASONIC_1"
+			(at 129.286 257.302 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ""
+			(at 126.746 245.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Ultrasonic Sensor HC-SR04:HC-SR04_FOOTPRINT"
+			(at 139.7 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ultrasonic Sensor HC-SR04"
+			(at 139.7 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "TRIG"
+			(uuid "f68543e0-8384-40d8-9491-bbe3f869b5a2")
+		)
+		(pin "VCC"
+			(uuid "52f93d6c-59aa-4c7a-942a-749583b1dda5")
+		)
+		(pin "GND"
+			(uuid "cc1b3016-3c30-4037-b0fd-a8ba2759b2cf")
+		)
+		(pin "ECHO"
+			(uuid "a50ba310-3ea5-4061-8e52-7bebcc4cd2c3")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "J_ULTRASONIC_1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Interface_Expansion:MCP23017x-x-ML")
 		(at 302.26 53.34 0)
 		(unit 1)
@@ -11432,6 +12657,162 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 228.6 240.03 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7906f17c-9a4e-4060-ac35-9f0cf12248fb")
+		(property "Reference" "#PWR021"
+			(at 228.6 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 228.6 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0648bcd6-5bf2-4034-8de5-ac8c7aedc87a")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VDD")
+		(at 213.36 240.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7be50409-b3a2-4888-ba80-201dedae0eea")
+		(property "Reference" "#PWR016"
+			(at 213.36 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VDD"
+			(at 213.36 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 213.36 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 213.36 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 213.36 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4761413c-4998-4079-a03e-667903c25e6a")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -12450,6 +13831,93 @@
 		)
 	)
 	(symbol
+		(lib_id "Ultrasonic Sensor HC-SR04:HC-SR04")
+		(at 220.98 252.73 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a4ba4383-6619-4fc2-b0cc-8bb9e8311f73")
+		(property "Reference" "J_ULTRASONIC_5"
+			(at 210.566 257.302 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ""
+			(at 208.026 245.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Ultrasonic Sensor HC-SR04:HC-SR04_FOOTPRINT"
+			(at 220.98 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ultrasonic Sensor HC-SR04"
+			(at 220.98 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "TRIG"
+			(uuid "4b4fb067-2202-4e01-84f6-38401cb43a35")
+		)
+		(pin "VCC"
+			(uuid "d03e72e8-f32b-4786-930f-4f4faf7b935f")
+		)
+		(pin "GND"
+			(uuid "579a375e-9b5f-4ce0-8df4-9a8f0e4f9d56")
+		)
+		(pin "ECHO"
+			(uuid "62a21c9d-2f0e-4b85-965a-d7d584025f94")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "J_ULTRASONIC_5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 364.49 27.94 0)
 		(unit 1)
@@ -12682,6 +14150,84 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 167.64 240.03 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b8d882cf-c21f-4bc9-8468-d278d85ccc0a")
+		(property "Reference" "#PWR018"
+			(at 167.64 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 167.64 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 167.64 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e5141896-5168-45ff-adb8-223e19e4b797")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -13078,6 +14624,93 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Ultrasonic Sensor HC-SR04:HC-SR04")
+		(at 180.34 252.73 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d0295b03-7272-4f57-9bdd-5c068d80bc81")
+		(property "Reference" "J_ULTRASONIC_3"
+			(at 169.926 257.302 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ""
+			(at 167.386 245.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Ultrasonic Sensor HC-SR04:HC-SR04_FOOTPRINT"
+			(at 180.34 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ultrasonic Sensor HC-SR04"
+			(at 180.34 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "TRIG"
+			(uuid "155f39e2-e98c-4019-b5a8-0f8610c293b2")
+		)
+		(pin "VCC"
+			(uuid "8caf932c-9952-4109-a359-9d85b69dce81")
+		)
+		(pin "GND"
+			(uuid "ce5ddd8e-059d-49c5-9bf7-8f70f6603024")
+		)
+		(pin "ECHO"
+			(uuid "b3036181-543c-46f0-a257-e67a07eae9bf")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "J_ULTRASONIC_3")
 					(unit 1)
 				)
 			)
@@ -13857,6 +15490,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 187.96 240.03 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eb8a677a-b601-4eae-9553-3eafe58f9db9")
+		(property "Reference" "#PWR019"
+			(at 187.96 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 187.96 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 187.96 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7525d94f-0c11-49f1-a7ae-a944ed65d782")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Adafruit TMC2209 Stepper Motor Driver-eagle-import:HEADER-1X1070MIL")
 		(at 139.7 210.82 90)
 		(mirror x)
@@ -14120,6 +15831,84 @@
 			(project "test"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VDD")
+		(at 132.08 240.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f8ba3923-fde7-4ae8-a475-3da039cbe125")
+		(property "Reference" "#PWR012"
+			(at 132.08 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VDD"
+			(at 132.08 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 132.08 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f3f7cdf9-f819-453e-aed7-24c595e73514")
+		)
+		(instances
+			(project "test"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
